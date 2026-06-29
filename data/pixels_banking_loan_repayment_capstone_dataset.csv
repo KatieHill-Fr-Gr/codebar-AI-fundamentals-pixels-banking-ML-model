@@ -1,0 +1,1201 @@
+customer_id,age,region,account_type,tenure_months,monthly_income,avg_monthly_balance,credit_score,num_products,has_credit_card,has_crypto_wallet,uses_mobile_app,customer_service_calls,missed_payments_6m,support_rating,contract_type,monthly_fees,digital_engagement_score,loan_amount,loan_term_months,debt_to_income_ratio,interest_rate,loan_repaid
+PBG-200312,36,London,Premium,24,2281,1702,637,3,Yes,No,No,3,0,5,Annual,16.99,49,7500,36,0.36,13.57,0
+PBG-200958,47,South East,Premium,13,4747,3045,655,1,Yes,No,No,2,0,,Monthly,16.99,74,5000,12,0.14,6.73,1
+PBG-200402,44,West Midlands,Premium,41,5605,5230,583,2,Yes,No,Yes,0,0,2,No fixed term,16.99,100,3000,48,0.32,12.42,1
+PBG-200626,49,West Midlands,Premium,23,5576,7223,850,3,Yes,Yes,Yes,2,1,4,Monthly,16.99,86,15000,48,0.03,3.9,1
+PBG-200272,32,North East,Everyday,63,4737,4982,691,1,No,Yes,Yes,1,3,4,No fixed term,0,77,10000,12,0.45,7.87,0
+PBG-200935,34,Scotland,Everyday,49,3162,2926,724,1,Yes,No,Yes,2,0,4,Annual,0,100,25000,24,0.17,6.94,1
+PBG-200314,28,North West,Premium,76,3003,2435,754,3,Yes,No,No,2,1,4,No fixed term,16.99,51,3000,24,0.17,5.57,1
+PBG-200653,54,South East,Premium,18,3248,2305,770,1,Yes,No,Yes,1,0,3,Annual,16.99,100,10000,24,0.08,4.23,1
+PBG-200093,47,Scotland,Plus,54,2257,282,621,2,No,Yes,Yes,0,2,3,No fixed term,7,,10000,24,0.37,11.8,0
+PBG-200354,22,North West,Everyday,18,3270,1209,705,3,Yes,Yes,Yes,3,4,5,Monthly,0,65,3000,36,0.43,8.29,0
+PBG-201016,40,South West,Everyday,38,3673,2149,514,2,Yes,No,Yes,1,3,3,Monthly,0,77,2000,12,0.48,17.3,1
+PBG-200694,21,North East,Everyday,25,4415,3332,719,4,Yes,Yes,Yes,1,1,5,No fixed term,0,80,3000,48,0.26,9.71,1
+PBG-200362,55,South East,Everyday,70,3137,3085,738,2,Yes,No,Yes,1,0,3,Monthly,0,53,15000,24,0.19,4.76,1
+PBG-201100,55,Wales,Everyday,26,1458,1392,685,2,Yes,Yes,Yes,3,1,2,Annual,0,100,3000,36,0.27,7.97,0
+PBG-200930,29,North West,Premium,19,900,773,724,1,Yes,No,No,2,1,3,No fixed term,16.99,96,2000,36,0.21,,1
+PBG-201176,54,South East,Plus,11,3016,1299,747,4,Yes,No,Yes,3,0,5,No fixed term,7,80,1000,36,0.19,6.47,1
+PBG-200878,29,East Midlands,Premium,15,4923,3569,708,3,Yes,Yes,Yes,1,0,4,No fixed term,16.99,100,5000,24,0.12,5.87,1
+PBG-200526,55,North East,Plus,31,7069,,699,3,Yes,No,Yes,2,1,,No fixed term,7,76,25000,36,0.18,7.28,1
+PBG-200114,43,South West,Premium,33,2768,1450,,2,No,No,Yes,0,0,3,Monthly,16.99,94,25000,36,0.25,9.73,0
+PBG-200936,41,Yorkshire and the Humber,Everyday,8,4044,1620,713,2,Yes,Yes,Yes,5,0,1,Monthly,0,100,7500,36,0.42,7.19,1
+PBG-201125,24,South East,Premium,144,4269,1020,700,3,Yes,No,Yes,1,1,4,No fixed term,16.99,100,1000,24,0.38,7.88,1
+PBG-200744,59,North West,Everyday,35,1100,0,664,1,No,No,Yes,0,0,4,Monthly,0,100,20000,24,0.12,8.19,0
+PBG-200759,18,Scotland,Plus,14,2822,2224,674,2,No,No,Yes,3,0,3,Monthly,7,82,5000,36,0.19,7.43,1
+PBG-200020,49,London,Premium,21,5874,4542,733,2,Yes,No,Yes,1,0,3,Annual,16.99,100,5000,60,0.25,4.36,1
+PBG-201050,19,East Midlands,Premium,76,3995,2615,613,1,Yes,No,Yes,1,2,3,Monthly,16.99,74,2000,48,0.44,10.99,0
+PBG-201135,48,South East,Premium,120,6876,8422,573,1,No,No,Yes,2,1,4,Annual,16.99,32,10000,24,0.05,11.15,1
+PBG-200769,30,Scotland,Premium,19,2834,2563,675,2,Yes,No,No,1,0,5,Annual,16.99,92,10000,48,0.29,8.5,1
+PBG-200763,45,London,Everyday,46,2809,3814,708,3,No,No,Yes,1,0,3,No fixed term,0,72,15000,48,0.13,4.39,1
+PBG-201070,,Scotland,Premium,101,1189,680,653,2,Yes,No,Yes,1,0,1,No fixed term,16.99,93,20000,24,0.17,7.85,0
+PBG-200497,28,West Midlands,Everyday,106,2860,1877,511,2,No,Yes,No,1,0,3,No fixed term,0,63,7500,12,0.18,14.09,1
+PBG-200695,42,North East,Everyday,39,3658,72,721,2,Yes,No,No,0,0,4,Annual,0,96,2000,36,0.28,7.86,0
+PBG-201097,28,South West,Plus,64,4370,4286,659,4,Yes,Yes,Yes,2,1,5,Annual,7,80,5000,36,0.49,11.8,0
+PBG-200160,46,West Midlands,Everyday,15,3670,2080,644,4,Yes,No,Yes,0,0,,Annual,0,72,10000,12,0.21,9.53,0
+PBG-200672,33,South East,Everyday,23,3157,3026,842,2,Yes,Yes,Yes,0,0,3,No fixed term,0,,15000,12,0.05,3.9,1
+PBG-200086,42,West Midlands,,69,5242,3261,664,4,Yes,No,Yes,5,0,4,Annual,0,85,10000,36,0.17,9.15,0
+PBG-200831,40,East Midlands,Business,57,3035,1496,671,1,No,No,Yes,0,3,4,Annual,12,68,2000,24,0.28,9.1,1
+PBG-200085,22,West Midlands,Plus,26,2117,279,654,1,Yes,No,Yes,1,0,4,Monthly,7,,7500,60,0.23,8.85,1
+PBG-200782,18,West Midlands,Plus,50,2970,,762,1,Yes,Yes,Yes,3,0,1,Monthly,7,49,3000,36,0.31,7.24,1
+PBG-200292,53,Yorkshire and the Humber,Plus,35,2272,864,634,2,Yes,No,Yes,3,0,4,No fixed term,7,77,1000,36,0.03,9.65,1
+PBG-200506,25,South East,Everyday,17,5554,5716,641,2,No,No,Yes,0,0,,Monthly,0,59,1000,36,0.19,9,1
+PBG-201058,32,South West,Everyday,28,4073,3710,526,3,No,No,Yes,0,0,2,No fixed term,0,81,7500,36,0.17,14.37,1
+PBG-201136,39,North West,Plus,34,1608,420,589,1,Yes,No,No,3,0,5,Monthly,7,62,5000,12,0.14,10.29,0
+PBG-200207,49,South West,Premium,74,3998,4004,,4,Yes,Yes,Yes,1,1,1,Monthly,16.99,100,1000,48,0.24,4.77,1
+PBG-200239,32,East Midlands,Everyday,51,1537,2074,487,5,No,No,Yes,6,2,4,No fixed term,0,72,2000,24,0.32,16.22,0
+PBG-200556,35,Scotland,Everyday,37,4600,5114,656,2,Yes,Yes,Yes,1,0,5,Monthly,0,81,2000,24,0.08,,1
+PBG-200510,50,North East,,67,1774,541,753,1,Yes,Yes,Yes,0,0,3,No fixed term,16.99,55,1000,36,0.32,6.04,1
+PBG-201090,36,North East,Everyday,45,1963,964,534,2,No,No,No,2,1,1,Monthly,0,35,10000,36,0.25,15.97,0
+PBG-200009,32,West Midlands,Everyday,40,4399,3641,645,4,Yes,Yes,Yes,1,0,3,Monthly,0,98,5000,12,0.38,9.88,0
+PBG-200456,24,East Midlands,Everyday,39,1510,1768,691,1,Yes,No,Yes,2,2,1,Annual,0,89,2000,12,0.22,7.79,1
+PBG-200027,42,North East,Everyday,75,4700,1641,668,4,No,No,Yes,2,0,3,Monthly,0,,7500,36,0.3,9.32,1
+PBG-201187,32,East Midlands,Plus,36,4112,2879,761,2,Yes,No,Yes,1,0,4,Monthly,7,91,7500,36,0.28,6.79,1
+PBG-201052,34,South East,Everyday,17,2632,2583,652,3,No,No,Yes,2,1,4,Monthly,0,88,2000,24,0.26,9.09,1
+PBG-200991,38,Scotland,Plus,23,1712,859,804,1,No,No,No,3,0,3,No fixed term,7,91,2000,60,0.21,5.12,1
+PBG-200561,18,Scotland,Plus,46,2926,4156,600,3,Yes,No,No,1,0,4,Annual,7,40,15000,24,0.14,12.34,0
+PBG-200631,36,London,Plus,20,3613,1709,641,1,Yes,No,Yes,2,0,5,Monthly,7,100,5000,24,0.1,8.43,1
+PBG-200691,61,West Midlands,Everyday,54,2273,1504,803,2,No,No,Yes,5,2,5,Monthly,0,78,7500,12,0.23,5.53,1
+PBG-200947,23,Wales,Everyday,26,2296,1781,695,3,Yes,No,Yes,2,1,5,No fixed term,0,52,20000,36,0.26,6.47,0
+PBG-200134,41,Yorkshire and the Humber,Everyday,100,919,,643,3,Yes,No,Yes,2,0,5,Monthly,0,64,3000,24,0.54,11.81,0
+PBG-200794,47,Northern Ireland,Premium,45,2504,1063,564,1,No,No,Yes,2,2,5,Monthly,16.99,100,5000,24,0.38,9.93,1
+PBG-200297,43,South West,Premium,37,4505,1734,613,1,Yes,No,No,5,0,4,No fixed term,16.99,21,7500,36,0.05,,1
+PBG-200113,42,North East,Premium,9,4844,2940,590,2,No,No,Yes,0,2,4,Monthly,16.99,62,2000,12,0.42,13.15,0
+PBG-200855,39,North East,Business,21,3044,2648,655,1,Yes,Yes,Yes,1,0,4,Annual,12,100,10000,12,0.16,8.74,0
+PBG-200683,25,West Midlands,Everyday,37,3244,3937,658,3,Yes,No,Yes,2,1,4,Monthly,0,76,3000,60,0.45,10.1,0
+PBG-200163,46,Northern Ireland,Premium,52,4399,5199,668,1,No,No,Yes,1,0,3,Monthly,16.99,87,1000,60,0.19,6.83,1
+PBG-200469,65,South West,Premium,20,3318,1067,819,1,Yes,Yes,,2,0,5,Annual,16.99,81,7500,24,0.41,5.19,1
+PBG-200721,44,South West,Plus,57,3186,954,636,4,,No,Yes,3,1,5,Monthly,7,100,7500,36,0.28,9.44,1
+PBG-200363,47,North West,Everyday,23,1397,977,782,5,Yes,No,No,2,1,4,Annual,0,47,5000,24,0.1,4.77,1
+PBG-201080,19,Northern Ireland,Everyday,29,2754,2438,591,1,No,No,Yes,2,0,5,Monthly,0,99,3000,36,0.26,12.29,1
+PBG-200531,39,Yorkshire and the Humber,Plus,24,5606,5062,624,3,Yes,No,Yes,3,1,5,Annual,7,75,2000,48,0.22,11.65,1
+PBG-200057,51,Wales,Premium,48,4878,4658,693,4,Yes,Yes,Yes,4,0,3,Monthly,16.99,95,2000,12,0.19,7.77,1
+PBG-201005,51,Yorkshire and the Humber,Plus,16,7901,10706,574,3,No,No,Yes,2,0,5,Annual,7,100,3000,24,0.3,14.61,1
+PBG-200116,40,London,Everyday,43,2615,2536,754,4,Yes,Yes,Yes,3,1,3,Monthly,0,78,2000,12,0.09,5.96,1
+PBG-200937,48,,Plus,54,,1180,615,2,Yes,No,Yes,4,1,5,No fixed term,7,60,15000,36,0.31,11.69,0
+PBG-200399,31,Wales,Plus,52,6440,7031,603,4,Yes,No,Yes,3,0,5,No fixed term,7,80,2000,48,0.22,13.71,1
+PBG-201000,18,North East,Everyday,37,5021,2815,524,4,No,No,Yes,1,0,3,Annual,0,76,10000,24,0.16,,1
+PBG-201173,44,Wales,Everyday,12,3521,3058,773,1,No,No,Yes,3,1,4,Monthly,0,89,5000,36,0.2,8.33,1
+PBG-200319,70,Yorkshire and the Humber,Premium,57,1848,1375,649,3,No,No,Yes,2,4,4,Monthly,16.99,79,3000,24,0.18,9.78,1
+PBG-200428,27,London,Premium,34,3866,2122,699,1,No,No,No,3,0,4,No fixed term,16.99,50,5000,36,0.27,9.17,1
+PBG-201028,58,Scotland,Business,16,3272,3133,782,3,Yes,No,Yes,2,0,3,Monthly,12,,10000,24,0.28,5.08,1
+PBG-200329,29,South West,Everyday,13,4216,1466,653,2,Yes,No,Yes,1,0,5,Monthly,0,87,3000,24,0.48,12.23,1
+PBG-200220,50,London,Everyday,45,2935,3026,745,3,Yes,No,Yes,0,1,3,Annual,0,61,5000,36,0.41,6.91,1
+PBG-200962,39,London,Premium,37,5154,1812,586,1,No,No,Yes,2,0,4,Annual,16.99,90,2000,48,0.23,12.16,1
+PBG-201156,49,North West,Everyday,25,2757,2123,693,3,No,No,No,2,0,5,Annual,0,,5000,36,0.2,8.37,1
+PBG-200918,50,London,Everyday,49,6622,5113,694,4,Yes,Yes,Yes,1,1,4,No fixed term,0,84,15000,48,0.3,7.64,0
+PBG-201115,60,North West,Everyday,46,4781,3670,579,2,No,No,Yes,0,0,3,No fixed term,0,100,7500,36,0.14,11.77,1
+PBG-200852,53,South West,Everyday,64,6044,1597,643,1,Yes,No,,2,0,3,No fixed term,0,77,5000,36,0.19,8.68,1
+PBG-200213,62,London,Plus,70,2446,1961,644,3,Yes,No,Yes,0,0,5,Monthly,7,95,7500,24,0.12,9.5,1
+PBG-200968,34,East Midlands,Premium,75,3460,4487,808,1,Yes,No,Yes,3,0,5,Monthly,16.99,84,3000,24,0.1,,1
+PBG-200154,49,East Midlands,Plus,12,1718,0,733,2,No,No,Yes,0,0,3,Annual,7,90,10000,12,0.26,5.23,1
+PBG-200766,18,London,Everyday,74,2600,3255,677,4,No,No,Yes,4,0,5,Monthly,0,100,5000,48,0.35,10.55,1
+PBG-200928,30,London,Everyday,31,6406,6133,652,1,No,No,,2,0,4,Monthly,0,62,2000,36,0.05,8.1,1
+PBG-200717,18,Wales,Everyday,37,3468,1324,625,2,No,No,No,4,0,3,Annual,0,34,1000,24,0.43,9.09,0
+PBG-200037,38,South West,Everyday,15,3826,4028,622,3,Yes,No,Yes,0,0,4,No fixed term,0,68,1000,24,0.11,10.07,1
+PBG-200762,30,Yorkshire and the Humber,Everyday,39,2683,1779,754,1,Yes,Yes,Yes,1,0,,Annual,0,100,3000,36,0.22,6.96,1
+PBG-201065,35,London,Everyday,18,3575,1877,707,2,Yes,No,Yes,3,1,4,Monthly,0,37,5000,12,0.32,6.81,1
+PBG-200389,42,Wales,Plus,52,3488,1858,701,1,No,Yes,Yes,0,0,3,Monthly,7,100,2000,60,0.21,8.22,1
+PBG-200736,59,London,Everyday,68,3182,130,701,3,,No,Yes,1,0,2,Annual,0,73,1000,12,0.38,,1
+PBG-200551,37,London,Premium,40,4715,4122,696,3,Yes,No,Yes,0,0,4,No fixed term,16.99,73,2000,48,0.23,5.94,1
+PBG-200129,20,West Midlands,Everyday,41,1319,909,666,1,No,No,Yes,1,0,3,No fixed term,0,100,2000,24,0.26,10.73,1
+PBG-200140,47,South West,Plus,30,4349,184,762,3,No,No,Yes,2,0,4,No fixed term,7,90,7500,24,0.08,5.68,1
+PBG-200365,44,South West,Premium,17,7138,7725,585,1,No,No,Yes,1,0,1,Monthly,16.99,42,2000,24,0.17,11.62,0
+PBG-200768,43,Yorkshire and the Humber,Premium,20,2656,1469,747,2,Yes,No,No,2,1,3,No fixed term,16.99,77,20000,24,0.17,3.9,1
+PBG-200730,63,North West,Everyday,60,2764,1174,617,2,,Yes,Yes,4,1,4,Monthly,0,94,5000,36,0.19,10.01,1
+PBG-200249,59,Yorkshire and the Humber,Plus,29,2945,647,755,4,Yes,Yes,Yes,2,1,4,Monthly,7,100,2000,12,0.37,7.69,0
+PBG-200902,50,South West,Everyday,71,5917,2620,696,3,Yes,No,Yes,2,0,5,Annual,0,91,20000,24,0.24,6.2,1
+PBG-200909,36,Northern Ireland,Business,52,4113,4627,579,4,No,No,Yes,0,2,3,Annual,12,96,3000,36,0.5,12.84,0
+PBG-200980,41,North East,Everyday,61,4091,606,761,1,Yes,Yes,Yes,1,0,3,Monthly,0,76,10000,12,0.27,5.55,1
+PBG-200212,40,North East,Everyday,20,6736,2353,591,2,No,No,No,1,1,4,Monthly,0,39,10000,24,0.18,11.74,1
+PBG-200705,40,South East,Plus,14,4895,429,584,4,No,No,Yes,3,0,4,Annual,7,78,20000,48,0.24,12.87,0
+PBG-200905,18,West Midlands,Plus,52,1785,1212,780,2,No,No,Yes,2,0,3,Monthly,7,67,3000,24,0.31,5.83,1
+PBG-200400,23,West Midlands,Plus,16,,2757,752,2,Yes,No,Yes,1,0,5,No fixed term,7,100,2000,24,0.17,7.16,0
+PBG-200546,50,South West,Everyday,25,3124,1777,777,3,Yes,No,Yes,2,0,2,No fixed term,0,64,5000,48,0.23,3.9,0
+PBG-200891,39,London,,30,4782,,499,3,,No,Yes,1,1,3,No fixed term,0,65,2000,24,0.2,14.89,0
+PBG-201161,44,London,,27,6342,7051,700,2,No,No,Yes,2,0,3,Monthly,0,81,15000,48,0.22,7.1,1
+PBG-200833,43,East Midlands,Everyday,27,2599,2233,668,2,Yes,No,Yes,4,1,3,Monthly,0,86,5000,12,0.2,6.65,1
+PBG-200604,24,North East,Everyday,32,3330,1778,,3,Yes,No,Yes,0,0,2,Annual,0,74,1000,48,0.37,6.66,1
+PBG-200284,42,Scotland,Business,79,5002,1236,686,3,No,Yes,Yes,5,0,4,Annual,12,100,3000,12,0.3,10.25,1
+PBG-201107,34,London,Plus,43,2135,,672,3,Yes,No,Yes,4,0,2,Annual,7,88,7500,12,0.38,9.64,0
+PBG-200982,35,London,Premium,24,6711,7416,746,5,Yes,No,Yes,2,0,1,Monthly,16.99,89,5000,12,0.08,4.27,1
+PBG-200303,54,Yorkshire and the Humber,Business,66,3116,3548,514,1,No,No,No,2,0,3,Monthly,12,100,7500,48,0.11,14.79,0
+PBG-200119,36,East Midlands,Premium,38,3477,1937,610,1,Yes,No,Yes,0,0,3,Monthly,16.99,93,7500,24,0.08,9.48,1
+PBG-200877,26,South East,Premium,78,2321,395,663,2,No,Yes,Yes,2,0,5,No fixed term,16.99,60,2000,12,0.08,6.6,1
+PBG-200787,53,North West,Plus,20,3727,3891,640,3,,No,Yes,2,0,2,No fixed term,7,100,2000,36,0.23,8.81,0
+PBG-200577,49,South West,Plus,51,2820,2912,753,2,Yes,No,Yes,4,0,4,No fixed term,7,94,1000,36,0.25,6.61,1
+PBG-200647,45,Yorkshire and the Humber,Everyday,85,3056,2584,589,2,No,No,Yes,1,0,4,No fixed term,0,80,20000,24,0.16,12.61,0
+PBG-200061,52,London,Plus,95,2196,1263,850,2,Yes,No,Yes,2,0,3,Monthly,7,83,5000,12,0.43,5.33,1
+PBG-201185,18,South East,,22,2571,2953,682,3,No,No,Yes,3,0,3,Annual,0,100,7500,48,0.06,4.83,0
+PBG-200638,18,South East,Everyday,24,1578,995,693,3,Yes,No,Yes,0,1,4,Annual,0,88,5000,12,,9.23,0
+PBG-200948,25,West Midlands,Everyday,68,4847,5721,729,4,No,No,Yes,4,1,5,No fixed term,0,100,10000,12,0.1,6.24,1
+PBG-200699,49,Yorkshire and the Humber,Everyday,32,2844,0,685,1,Yes,No,Yes,0,1,1,Monthly,0,,5000,36,0.18,9.09,1
+PBG-200661,27,South East,Plus,35,1470,1197,,4,Yes,No,Yes,0,0,1,Monthly,7,96,3000,36,0.28,,1
+PBG-200765,36,North West,Plus,23,2341,2576,670,1,Yes,No,,3,1,5,No fixed term,7,86,3000,24,0.19,8.62,1
+PBG-200131,36,South East,,52,3113,2972,657,2,No,Yes,Yes,2,1,2,Annual,0,80,10000,36,0.15,9.59,0
+PBG-200139,52,North West,Plus,24,,265,728,3,Yes,No,Yes,2,0,2,Monthly,7,100,3000,60,0.49,8.07,1
+PBG-200649,39,Northern Ireland,Plus,70,7372,8354,610,4,Yes,No,Yes,1,0,3,No fixed term,7,,1000,24,0.07,10.18,1
+PBG-201093,62,Wales,Everyday,43,3601,1645,570,5,No,No,Yes,1,0,3,No fixed term,0,100,1000,24,0.1,11.31,1
+PBG-200005,42,North West,Premium,73,1843,940,698,4,No,No,Yes,2,0,4,No fixed term,16.99,90,5000,36,,6.31,1
+PBG-200464,46,North East,Business,28,2004,2339,643,3,Yes,No,,0,0,4,Annual,12,48,5000,48,0.13,9.1,1
+PBG-200412,38,Scotland,Premium,28,3770,1273,719,4,Yes,No,No,2,0,1,Monthly,16.99,49,25000,36,0.33,8.23,1
+PBG-201033,29,North West,Premium,24,2113,2189,575,2,No,Yes,No,2,0,3,Annual,16.99,47,3000,24,0.2,12.1,1
+PBG-200047,50,Yorkshire and the Humber,Everyday,63,2678,2141,695,3,No,No,No,1,0,,Annual,0,58,7500,48,0.35,7.47,1
+PBG-200105,56,Yorkshire and the Humber,Plus,39,1683,1847,579,3,No,No,Yes,4,0,1,Annual,7,58,3000,24,,12.61,0
+PBG-200743,44,West Midlands,Business,14,1960,843,629,3,No,No,Yes,1,0,5,Annual,12,94,3000,36,0.23,10.24,1
+PBG-200360,56,North East,Plus,77,3896,3443,694,1,Yes,No,No,2,1,2,Annual,7,79,15000,36,0.39,10,1
+PBG-200042,24,London,Plus,56,4148,2037,670,5,No,No,Yes,2,0,1,No fixed term,7,80,5000,48,0.17,9.35,1
+PBG-200566,29,North West,Business,66,4827,1971,623,1,No,No,Yes,1,1,3,Monthly,12,59,15000,24,0.24,10.29,1
+PBG-201166,50,Scotland,Everyday,81,5615,6314,559,3,No,No,,2,0,4,Annual,0,69,15000,36,0.26,10.43,1
+PBG-200147,55,North West,Premium,39,5259,2882,721,4,No,No,Yes,2,2,2,Monthly,16.99,100,10000,36,0.27,8.34,1
+PBG-201078,36,West Midlands,Plus,18,2525,788,850,2,Yes,No,Yes,2,1,4,No fixed term,7,65,5000,48,0.2,3.9,1
+PBG-200978,32,South East,Plus,29,2441,2324,639,1,Yes,Yes,Yes,1,1,2,No fixed term,7,84,5000,24,0.45,10.7,1
+PBG-200123,41,North East,Business,11,4253,1395,587,1,No,No,Yes,1,1,4,No fixed term,12,58,25000,36,0.28,13.02,0
+PBG-200276,36,South West,Everyday,5,3043,2157,535,1,No,No,Yes,5,0,5,Monthly,0,63,7500,12,0.2,14.43,1
+PBG-200885,46,North West,Business,32,1346,2000,612,2,No,No,Yes,2,1,3,Annual,12,62,2000,36,0.18,9.83,1
+PBG-200879,29,London,Everyday,31,7305,8806,662,4,No,Yes,Yes,1,0,4,Annual,0,83,7500,24,0.21,8.7,1
+PBG-200663,33,North West,Premium,34,2881,2855,540,3,Yes,No,Yes,0,0,3,Annual,16.99,100,5000,36,0.07,12.42,1
+PBG-200810,18,Wales,Everyday,33,1745,2986,631,2,Yes,Yes,Yes,3,1,4,Monthly,0,45,3000,12,0.28,11.35,0
+PBG-200179,27,Yorkshire and the Humber,Everyday,39,3502,4484,656,3,No,No,Yes,2,0,1,No fixed term,0,92,3000,36,0.16,10.37,1
+PBG-201126,37,North West,Everyday,44,5874,1444,665,3,Yes,No,Yes,0,0,4,Annual,0,82,2000,12,0.07,4.8,1
+PBG-200698,37,London,Everyday,6,2232,,731,1,Yes,No,Yes,3,0,4,Monthly,0,52,10000,36,0.15,7.72,1
+PBG-201184,24,North West,Premium,41,2655,708,588,1,Yes,No,,1,3,4,No fixed term,16.99,100,1000,24,0.19,11.95,0
+PBG-200419,23,South East,Everyday,29,1525,1109,738,2,No,No,Yes,0,0,4,No fixed term,0,50,5000,36,0.34,6.52,1
+PBG-200747,63,Wales,Everyday,5,7698,7451,595,2,No,No,Yes,2,0,,Monthly,0,52,1000,48,0.2,11.64,1
+PBG-200617,36,South East,Everyday,9,4073,2642,636,1,Yes,No,Yes,2,0,4,Annual,0,60,3000,36,0.21,9.44,1
+PBG-200421,37,East Midlands,Premium,60,6281,7750,654,4,Yes,Yes,Yes,3,0,1,Annual,16.99,95,7500,24,0.31,10.92,1
+PBG-200602,44,North West,Everyday,87,,106,692,2,Yes,Yes,Yes,3,0,2,Monthly,0,75,10000,12,0.27,9.34,1
+PBG-200344,26,East Midlands,Everyday,26,2021,792,575,3,No,No,Yes,6,0,4,Monthly,0,100,7500,24,0.31,11.11,1
+PBG-201153,51,West Midlands,Plus,8,4716,3141,818,1,No,No,No,1,0,4,Annual,7,72,1000,60,0.27,3.9,1
+PBG-200231,46,East Midlands,Plus,12,2661,2593,634,1,No,No,No,2,0,5,Monthly,7,87,2000,24,0.16,12.37,1
+PBG-200814,36,West Midlands,Plus,20,1458,468,739,4,Yes,Yes,Yes,1,1,4,Monthly,7,71,5000,24,0.03,6.65,1
+PBG-200915,32,Yorkshire and the Humber,Everyday,26,1786,0,616,3,No,No,No,3,0,2,No fixed term,0,39,3000,24,0.17,10.07,0
+PBG-200792,34,West Midlands,Business,64,2834,2116,662,2,No,No,Yes,1,3,3,Monthly,12,80,7500,60,0.17,8.82,0
+PBG-200667,30,West Midlands,Everyday,26,6380,7111,717,3,Yes,Yes,Yes,1,1,5,No fixed term,0,88,25000,48,0.21,7.88,1
+PBG-201069,18,South East,Business,119,4744,6072,655,2,Yes,No,Yes,0,3,5,Annual,12,87,10000,36,0.16,7.62,0
+PBG-200064,27,North West,Business,30,4842,3527,632,2,Yes,No,Yes,2,0,4,Monthly,12,84,2000,24,0.16,8.83,1
+PBG-200206,54,South East,Business,5,5428,6893,679,2,Yes,No,Yes,3,0,,Annual,12,67,2000,24,0.15,6.87,0
+PBG-200524,53,London,Plus,46,3737,,728,1,No,Yes,Yes,1,0,5,Monthly,7,69,2000,36,0.19,6.27,1
+PBG-200752,44,North West,Plus,82,1792,2183,727,1,No,No,Yes,2,0,5,Monthly,7,100,2000,24,0.53,9.3,1
+PBG-200590,46,North West,Everyday,26,1522,1327,712,2,Yes,Yes,Yes,1,1,4,Monthly,0,65,2000,24,0.37,,1
+PBG-200196,26,London,Plus,44,2480,2384,622,3,No,No,No,2,1,3,Annual,7,,2000,48,0.06,8.16,1
+PBG-201054,48,South East,Plus,39,3477,3214,776,2,Yes,No,Yes,2,0,2,No fixed term,7,100,3000,36,0.28,5.02,1
+PBG-200567,18,South East,Plus,41,,240,704,4,,Yes,No,1,1,4,No fixed term,7,49,5000,48,0.09,6.37,1
+PBG-200195,43,North West,Everyday,41,5899,3769,572,1,No,No,No,0,0,4,Monthly,0,87,10000,24,0.14,10.69,1
+PBG-200425,46,Wales,Everyday,98,5140,6099,614,1,Yes,No,Yes,1,1,1,Annual,0,88,3000,24,,11.16,1
+PBG-201118,35,North West,Premium,47,3584,2870,850,2,Yes,No,Yes,1,3,4,Annual,16.99,100,2000,48,0.38,3.9,0
+PBG-200359,28,West Midlands,Everyday,60,2615,1233,660,5,Yes,No,Yes,1,1,3,Annual,0,74,25000,60,,7.74,1
+PBG-200953,30,,Plus,33,1350,,682,1,Yes,No,Yes,1,2,4,Annual,7,,5000,48,0.18,6.49,0
+PBG-200860,40,Northern Ireland,Premium,144,2087,618,603,2,No,Yes,Yes,1,0,4,No fixed term,16.99,90,7500,24,0.28,,1
+PBG-200818,43,South East,Everyday,38,3942,3634,731,1,No,No,No,1,0,2,Monthly,0,41,1000,36,0.19,5.6,1
+PBG-200573,43,Wales,Everyday,22,1429,735,698,1,Yes,Yes,Yes,0,0,3,Monthly,0,39,5000,12,0.11,7.09,1
+PBG-200858,32,South West,Premium,10,5901,2766,563,1,Yes,No,No,2,2,3,Annual,16.99,33,20000,12,0.26,13.73,0
+PBG-200946,35,South East,Plus,17,3860,3386,594,2,No,No,No,0,0,5,No fixed term,7,80,10000,24,,12.8,1
+PBG-201186,53,South West,Everyday,23,4112,4331,614,1,No,No,Yes,4,1,,No fixed term,0,100,7500,36,0.16,10.55,0
+PBG-200758,25,East Midlands,Everyday,22,3796,3617,574,2,No,No,,4,0,3,No fixed term,0,39,7500,36,0.18,12,0
+PBG-200832,38,London,Business,24,5595,4419,675,2,Yes,Yes,Yes,0,0,3,Monthly,12,,2000,12,0.24,9.21,1
+PBG-200290,34,London,Everyday,32,,3220,,3,Yes,No,Yes,4,0,5,Monthly,0,78,10000,12,0.37,9.88,1
+PBG-200271,25,Wales,Plus,37,1860,488,646,2,Yes,No,Yes,1,0,,Annual,7,54,7500,12,0.23,10.04,0
+PBG-200084,39,East Midlands,Everyday,63,3045,684,723,3,No,No,Yes,3,0,3,Annual,0,,7500,24,0.29,9.34,0
+PBG-201092,18,Yorkshire and the Humber,Business,84,5503,,662,2,Yes,Yes,Yes,4,0,3,Annual,12,66,15000,12,0.11,7.79,1
+PBG-201108,67,Wales,Premium,25,3843,3044,547,4,No,No,Yes,2,1,5,Annual,16.99,87,3000,24,0.21,12.87,1
+PBG-200910,41,West Midlands,Premium,30,1409,1570,699,1,Yes,No,No,1,0,2,Monthly,16.99,89,1000,60,0.2,7.46,1
+PBG-200888,41,North West,Plus,25,2520,397,628,1,No,Yes,Yes,4,0,5,Annual,7,90,3000,48,0.12,7.96,1
+PBG-200629,30,Scotland,Plus,16,4537,4494,673,1,No,No,No,1,0,2,Monthly,7,60,2000,60,0.34,8.2,0
+PBG-200308,55,South West,Business,33,3735,2796,597,4,No,Yes,Yes,0,0,4,Annual,12,62,7500,36,0.22,11.46,0
+PBG-200161,21,North West,Everyday,95,5184,1300,744,1,Yes,No,Yes,3,0,5,No fixed term,0,74,2000,36,0.33,6.69,1
+PBG-200588,63,South East,Everyday,40,5236,2685,575,1,No,No,Yes,0,0,3,Monthly,0,,5000,36,0.09,13.64,1
+PBG-200321,52,North West,Everyday,31,1855,1327,655,2,,No,Yes,2,0,2,Monthly,0,100,20000,12,0.26,9.39,0
+PBG-200317,42,,Everyday,26,2749,1279,661,3,Yes,No,Yes,1,0,3,Annual,0,89,5000,36,0.38,10.5,1
+PBG-201140,36,North West,Plus,54,1540,1253,657,4,No,No,Yes,1,0,3,Annual,7,63,3000,36,0.37,9.54,0
+PBG-200148,67,North West,Everyday,37,1659,364,800,3,Yes,No,Yes,0,0,5,No fixed term,0,,5000,12,0.15,3.9,1
+PBG-201113,31,South East,Everyday,8,4594,1881,825,2,Yes,No,Yes,2,0,5,Monthly,0,87,5000,36,0.1,4.73,1
+PBG-200372,40,South East,Plus,27,2897,1780,715,2,No,No,Yes,2,0,4,Annual,7,100,15000,12,0.13,4.85,0
+PBG-200115,32,Yorkshire and the Humber,Everyday,22,1419,169,,2,Yes,No,Yes,1,3,3,Monthly,0,85,5000,12,0.27,10.86,1
+PBG-200017,18,East Midlands,Premium,21,5301,3710,636,1,No,No,,0,0,3,Annual,16.99,73,7500,24,0.54,12.24,0
+PBG-200849,37,Wales,Everyday,21,1447,581,495,2,No,Yes,Yes,1,0,3,No fixed term,0,63,5000,48,0.29,15.21,0
+PBG-200096,49,South East,Everyday,30,3398,1037,,2,No,No,No,1,1,3,No fixed term,0,64,20000,12,0.14,6.36,0
+PBG-200605,55,Yorkshire and the Humber,Everyday,17,2926,2577,689,2,Yes,Yes,Yes,2,0,3,No fixed term,0,81,2000,48,0.46,10.18,0
+PBG-200294,58,Yorkshire and the Humber,Everyday,54,1309,490,645,4,No,No,Yes,2,0,3,Annual,0,92,3000,36,0.27,5.25,1
+PBG-200924,36,South West,Plus,45,1805,1966,620,2,No,No,No,0,1,4,Monthly,7,,7500,48,0.26,12.64,1
+PBG-201179,25,South West,Plus,47,1455,232,723,2,No,No,Yes,2,0,2,No fixed term,7,,10000,36,0.16,6.34,1
+PBG-200291,42,North West,Everyday,61,4888,5121,686,1,Yes,No,Yes,2,0,5,Annual,0,55,15000,24,0.03,7.29,1
+PBG-201045,43,South East,Plus,19,4276,3339,650,2,Yes,Yes,Yes,0,0,4,Monthly,7,100,5000,12,0.31,9.25,1
+PBG-201174,55,South East,,23,2716,1782,752,3,Yes,No,No,3,3,3,Monthly,0,38,20000,48,0.46,8.82,1
+PBG-200380,42,North West,Everyday,51,3518,919,592,3,No,No,No,3,0,4,Monthly,0,45,10000,36,0.34,12.41,1
+PBG-200387,54,Scotland,Business,34,,4668,756,3,Yes,Yes,Yes,0,0,4,Annual,12,100,15000,24,0.14,5.47,1
+PBG-200135,18,South East,Everyday,17,2879,1693,734,2,Yes,No,Yes,0,0,4,No fixed term,0,,5000,48,0.11,4.38,1
+PBG-200904,18,Yorkshire and the Humber,Premium,34,3204,1477,644,1,Yes,No,Yes,2,0,4,No fixed term,16.99,87,5000,36,0.26,9.97,1
+PBG-200917,32,West Midlands,Everyday,31,3564,5311,732,3,Yes,Yes,Yes,2,0,2,Annual,0,53,20000,24,0.24,5.7,1
+PBG-200309,44,Scotland,Premium,26,1976,1245,662,2,Yes,Yes,Yes,1,0,3,Monthly,16.99,93,1000,36,0.14,7.14,1
+PBG-200256,32,West Midlands,Everyday,19,3840,535,690,5,No,Yes,Yes,2,0,5,Monthly,0,95,15000,36,0.2,7.12,1
+PBG-200371,45,Yorkshire and the Humber,Business,46,2234,1686,643,1,No,No,Yes,1,0,2,Monthly,12,79,1000,12,0.41,12.79,0
+PBG-200058,34,North West,Everyday,33,2677,2467,603,1,Yes,No,,2,0,5,Monthly,0,61,2000,12,0.18,10.51,1
+PBG-200067,70,South East,Everyday,9,3172,820,665,2,No,No,No,0,0,5,Monthly,0,55,15000,36,0.4,11.3,0
+PBG-200665,24,West Midlands,Everyday,29,3310,2909,753,2,Yes,No,Yes,0,0,2,Monthly,0,84,3000,36,0.15,5.4,1
+PBG-200684,33,South East,Everyday,71,3491,1346,587,1,No,No,,2,0,1,No fixed term,0,46,3000,12,,11.45,1
+PBG-200628,78,London,Everyday,57,2715,1936,779,2,Yes,Yes,Yes,2,0,3,Monthly,0,77,25000,24,0.12,6.38,0
+PBG-201064,36,South East,Business,34,6123,,642,5,Yes,No,Yes,0,0,5,Annual,12,100,10000,48,0.19,8.82,0
+PBG-201073,39,Wales,Plus,21,3104,476,589,3,No,Yes,Yes,0,0,1,No fixed term,7,94,15000,12,0.35,12.57,0
+PBG-200545,33,South East,Everyday,91,4054,1582,640,3,Yes,No,Yes,3,1,3,Monthly,0,73,7500,24,0.35,10.18,0
+PBG-200900,23,Yorkshire and the Humber,Premium,22,2684,1932,664,2,Yes,No,Yes,1,0,4,Annual,16.99,76,7500,12,0.38,11.03,1
+PBG-201127,47,London,Everyday,76,5072,6227,645,2,No,No,Yes,1,0,4,No fixed term,0,100,5000,48,0.26,9.68,1
+PBG-200709,51,East Midlands,Plus,33,3305,3850,675,1,Yes,No,Yes,1,0,3,Annual,7,100,5000,12,0.24,8.08,1
+PBG-200197,41,East Midlands,Premium,31,1522,1601,751,1,Yes,No,Yes,2,1,3,Monthly,16.99,97,5000,36,,4.61,1
+PBG-200045,24,London,Everyday,50,4918,4673,684,3,Yes,No,No,1,0,3,No fixed term,0,39,7500,12,0.22,9.32,1
+PBG-201007,18,North West,Everyday,50,3354,,737,3,No,No,Yes,1,1,2,Monthly,0,63,10000,12,0.19,6.03,1
+PBG-200670,,Wales,Everyday,53,7581,7192,686,3,No,No,Yes,2,2,4,No fixed term,0,100,5000,48,0.32,6.52,0
+PBG-201198,46,Yorkshire and the Humber,Everyday,41,,679,626,3,No,Yes,No,1,0,3,No fixed term,0,52,1000,24,0.28,11.51,1
+PBG-200455,18,North West,Premium,22,3848,4243,691,3,Yes,No,Yes,0,0,,Monthly,16.99,76,2000,36,0.17,7.69,1
+PBG-200595,37,South East,Everyday,20,3436,1477,578,4,No,No,Yes,4,0,4,Annual,0,,15000,36,0.31,11.4,0
+PBG-200790,32,South West,Everyday,45,3004,191,714,2,Yes,No,Yes,0,0,5,No fixed term,0,84,2000,24,0.17,5.86,1
+PBG-200476,18,Yorkshire and the Humber,Plus,55,2541,536,640,2,Yes,Yes,No,1,2,,Monthly,7,97,7500,24,0.28,11.25,0
+PBG-200259,69,London,Premium,18,1100,2012,753,3,No,Yes,Yes,1,0,4,Monthly,16.99,37,15000,24,0.11,4.88,0
+PBG-200897,35,Northern Ireland,Plus,53,4229,561,621,4,Yes,No,Yes,3,0,5,No fixed term,7,59,15000,24,0.05,11.81,1
+PBG-201001,37,West Midlands,Plus,34,2757,3254,765,1,Yes,No,No,0,1,4,No fixed term,7,79,5000,36,0.28,4.89,1
+PBG-200711,59,London,Everyday,40,8469,10119,613,2,Yes,No,Yes,1,0,,Monthly,0,71,7500,36,0.23,,1
+PBG-200708,40,London,Everyday,75,8028,6999,689,2,No,Yes,Yes,0,0,3,No fixed term,0,100,3000,24,0.09,8.47,1
+PBG-200316,42,Scotland,Everyday,72,4861,706,579,2,Yes,No,Yes,0,0,4,Monthly,0,94,20000,12,0.33,13.58,0
+PBG-200700,37,,Everyday,63,2393,889,675,1,Yes,No,Yes,4,3,4,Annual,0,85,15000,24,0.24,9.41,1
+PBG-200109,30,Scotland,Premium,30,8466,,559,2,Yes,No,Yes,0,0,4,Monthly,16.99,100,3000,12,0.09,12.44,1
+PBG-200550,28,South East,Business,14,3766,4301,688,1,No,Yes,Yes,3,1,3,Annual,12,83,3000,36,0.34,,0
+PBG-200138,37,West Midlands,Everyday,41,5195,4278,832,1,Yes,No,Yes,2,2,4,Monthly,0,100,3000,36,0.35,4.32,0
+PBG-200277,27,South East,Everyday,30,2398,310,592,3,Yes,No,Yes,3,0,4,Annual,0,79,5000,36,0.11,10.86,1
+PBG-201004,49,Yorkshire and the Humber,Everyday,61,1474,671,785,3,Yes,No,Yes,1,0,4,No fixed term,0,100,1000,60,0.19,3.9,1
+PBG-200496,36,Yorkshire and the Humber,Plus,53,2552,1606,646,4,Yes,No,Yes,4,0,3,Monthly,7,,3000,12,0.5,12.41,1
+PBG-200778,18,East Midlands,Premium,42,3593,4066,644,1,Yes,Yes,Yes,2,1,1,No fixed term,16.99,79,10000,24,0.13,8.85,1
+PBG-201012,18,East Midlands,Plus,34,7499,4489,693,1,Yes,Yes,Yes,6,0,,Monthly,7,88,3000,48,0.12,7.4,0
+PBG-200274,48,North East,Plus,24,1889,2190,652,3,Yes,No,Yes,0,0,5,Annual,7,83,15000,36,0.19,8.06,1
+PBG-200209,30,South West,Everyday,40,4436,2400,686,1,Yes,Yes,Yes,1,0,4,Monthly,0,100,25000,24,,7.18,1
+PBG-200931,29,South West,Everyday,36,1758,1031,679,1,Yes,Yes,No,1,1,3,No fixed term,0,55,2000,36,,9.04,0
+PBG-200032,40,London,Plus,68,2117,1051,632,3,Yes,No,No,2,0,3,Monthly,7,61,5000,12,,10.45,1
+PBG-200538,27,South West,Plus,16,5923,1837,679,1,Yes,Yes,No,2,1,5,Annual,7,100,10000,48,0.13,7.52,1
+PBG-200112,38,West Midlands,Premium,38,3313,1015,648,2,No,No,Yes,3,0,3,Annual,16.99,71,5000,12,0.44,10.64,0
+PBG-200430,41,Wales,Plus,21,7559,9164,695,2,Yes,No,Yes,0,0,5,No fixed term,7,72,3000,60,0.06,8.46,1
+PBG-200515,27,Scotland,Plus,42,1888,1041,645,1,Yes,No,No,2,1,2,Monthly,7,46,10000,60,0.06,9.14,0
+PBG-200951,27,Scotland,Everyday,73,7516,1546,681,1,No,No,No,0,0,4,No fixed term,0,42,2000,36,0.29,7.8,1
+PBG-200756,37,South East,Everyday,95,2633,1617,688,1,No,No,No,0,1,2,Monthly,0,22,3000,24,0.08,9.28,1
+PBG-200103,49,South East,Everyday,93,6710,6122,643,2,,Yes,Yes,3,0,2,Monthly,0,100,7500,24,0.4,12.6,1
+PBG-200800,40,Yorkshire and the Humber,Everyday,31,5401,5498,698,3,Yes,Yes,Yes,1,0,3,No fixed term,0,59,7500,24,0.23,7.64,1
+PBG-201155,46,East Midlands,Everyday,36,3461,3271,745,3,Yes,Yes,No,1,0,3,Annual,0,55,15000,36,0.15,3.9,1
+PBG-200275,43,South East,Everyday,75,1793,743,669,2,No,No,Yes,2,0,3,Monthly,0,77,1000,48,0.06,7.53,1
+PBG-200819,49,North West,Everyday,57,2949,568,707,1,No,No,No,2,0,3,No fixed term,0,36,7500,36,0.15,9.15,1
+PBG-201047,32,London,Plus,26,4222,2638,596,3,No,Yes,Yes,2,0,3,Annual,7,100,5000,36,0.17,11.3,0
+PBG-200073,40,North West,Premium,18,4350,6029,776,3,Yes,No,No,1,0,3,Monthly,16.99,88,3000,48,0.12,4.91,1
+PBG-201169,47,South East,Everyday,29,1691,1235,772,5,Yes,No,Yes,2,1,3,Monthly,0,63,3000,24,0.18,4.15,1
+PBG-200753,40,Yorkshire and the Humber,Plus,25,2470,,745,3,No,No,No,0,0,5,Monthly,7,23,5000,12,0.12,6.62,1
+PBG-200439,22,Scotland,Everyday,28,4309,5347,702,2,Yes,No,No,1,1,3,No fixed term,0,40,3000,12,0.26,8.26,1
+PBG-200226,57,South West,Business,10,2665,,639,1,Yes,No,Yes,0,0,5,Annual,12,100,2000,36,0.18,12.15,1
+PBG-201079,18,London,Plus,16,2705,1365,657,2,Yes,No,Yes,2,0,4,No fixed term,7,86,3000,36,0.25,9.85,1
+PBG-200059,18,South West,Plus,39,1995,1504,618,2,Yes,No,Yes,1,0,3,No fixed term,7,82,15000,24,0.09,11.05,1
+PBG-200264,43,North East,Plus,29,3963,2333,729,3,Yes,No,No,3,3,4,Monthly,7,81,10000,24,0.3,6.49,0
+PBG-201040,52,Northern Ireland,Everyday,47,3232,3577,632,3,Yes,Yes,No,2,0,3,No fixed term,0,93,10000,48,0.44,11.36,1
+PBG-200677,18,Yorkshire and the Humber,,44,1715,908,588,2,Yes,No,Yes,2,0,2,No fixed term,0,68,5000,24,0.13,13.03,1
+PBG-200779,18,North East,Plus,43,3628,2134,738,2,Yes,No,No,3,3,4,No fixed term,7,,3000,24,0.33,8.78,0
+PBG-200302,46,London,Premium,31,3581,3686,764,1,Yes,Yes,Yes,0,1,2,Annual,16.99,78,25000,60,0.16,5.62,0
+PBG-200378,38,London,Plus,14,3289,511,605,1,Yes,No,Yes,1,1,2,No fixed term,7,88,15000,24,0.16,11.14,0
+PBG-201103,46,Scotland,Plus,46,900,0,683,3,Yes,Yes,Yes,3,1,5,Annual,7,65,15000,36,0.29,8.44,0
+PBG-200155,18,North East,Plus,81,4031,2312,680,2,Yes,No,Yes,1,0,3,Annual,7,71,10000,12,0.12,8.17,1
+PBG-200337,36,North East,Premium,45,2734,127,561,1,No,No,Yes,1,0,3,Monthly,16.99,,1000,24,0.28,,1
+PBG-201030,42,Yorkshire and the Humber,Plus,29,2263,656,790,3,Yes,Yes,No,3,0,4,Annual,7,67,10000,24,0.56,7.03,0
+PBG-200760,31,West Midlands,Business,42,2253,2947,524,2,,No,Yes,1,0,2,No fixed term,12,100,5000,24,0.05,12.07,1
+PBG-200257,43,Scotland,Plus,29,2610,1011,636,3,Yes,No,Yes,1,0,3,Annual,7,65,2000,48,0.46,12.84,0
+PBG-200431,46,Wales,Premium,83,3884,2900,613,1,No,No,Yes,8,1,4,Monthly,16.99,87,5000,36,0.03,9.6,0
+PBG-200964,66,East Midlands,Plus,38,2939,3897,850,3,Yes,No,Yes,0,0,3,Monthly,7,100,3000,48,0.26,3.9,1
+PBG-200325,53,London,Everyday,48,8450,3350,650,1,Yes,Yes,Yes,2,0,3,Annual,0,98,2000,36,0.12,7.62,1
+PBG-200488,18,London,Plus,34,2941,2005,813,4,Yes,No,No,0,0,4,Annual,7,96,2000,48,0.04,3.9,1
+PBG-200165,27,Wales,Plus,16,3339,875,613,1,No,No,Yes,0,1,4,Annual,7,,2000,36,0.08,11.66,1
+PBG-200038,54,Scotland,Premium,23,6668,3210,581,3,Yes,No,Yes,0,0,3,Monthly,16.99,100,2000,24,0.41,13.84,0
+PBG-200411,38,South East,Everyday,25,5475,7234,664,1,Yes,No,,1,1,3,Annual,0,99,5000,36,0.17,7.98,0
+PBG-200585,36,Scotland,Plus,31,2361,12,797,2,Yes,No,No,2,1,3,Monthly,7,76,15000,60,0.23,4.16,1
+PBG-200000,35,Wales,Everyday,34,3231,3530,798,5,Yes,No,Yes,1,1,,Monthly,0,79,25000,36,0.08,,1
+PBG-200954,55,London,Plus,16,4252,1172,822,2,Yes,No,Yes,1,0,4,Monthly,7,36,5000,48,0.2,3.9,1
+PBG-201025,32,Yorkshire and the Humber,Everyday,91,5137,3020,623,2,No,No,Yes,0,0,3,Monthly,0,99,20000,48,0.25,11.27,1
+PBG-201111,49,London,Everyday,19,2777,3054,600,3,No,No,Yes,0,0,4,No fixed term,0,86,2000,36,0.29,12.75,1
+PBG-200970,36,North West,Everyday,34,1941,1191,730,1,No,No,No,2,1,3,Monthly,0,38,5000,12,0.25,6.15,1
+PBG-200613,43,Northern Ireland,Everyday,34,6346,3009,731,2,Yes,No,Yes,0,0,3,Monthly,0,95,10000,24,0.36,6.31,1
+PBG-200078,40,East Midlands,Everyday,20,3334,3462,658,2,No,No,Yes,1,1,3,No fixed term,0,,10000,60,0.24,9.19,1
+PBG-200539,45,South East,Everyday,65,3416,1998,,2,Yes,No,Yes,0,0,1,Annual,0,94,10000,12,0.17,7.26,1
+PBG-201172,46,Scotland,Everyday,11,1796,847,654,2,No,No,No,0,0,4,Monthly,0,,7500,24,0.21,10.41,1
+PBG-200391,18,,Everyday,44,3616,1008,729,2,Yes,No,No,5,1,4,Annual,0,35,20000,60,0.38,8.88,0
+PBG-200099,47,Wales,Plus,24,5663,1867,609,4,Yes,No,Yes,0,3,4,Monthly,7,83,7500,36,,13.75,0
+PBG-201027,30,West Midlands,Everyday,26,4036,1057,598,5,Yes,No,Yes,1,0,4,Annual,0,91,5000,36,0.08,11.09,1
+PBG-200817,46,Wales,Everyday,57,7081,,652,1,Yes,No,Yes,2,4,3,Monthly,0,95,7500,36,0.57,10.76,0
+PBG-200247,39,North West,Everyday,63,2429,1478,669,3,No,Yes,No,2,0,4,Monthly,0,42,7500,12,0.13,7.94,1
+PBG-200998,55,Yorkshire and the Humber,Premium,37,2402,636,610,1,Yes,No,Yes,1,0,3,Annual,16.99,99,7500,60,0.26,12.39,1
+PBG-200483,43,Scotland,Plus,73,2727,2096,661,3,Yes,No,Yes,1,0,5,Annual,7,67,10000,12,0.24,10.29,0
+PBG-200183,18,North West,Everyday,11,4150,2754,750,1,Yes,No,Yes,3,0,1,Monthly,0,69,5000,24,0.03,3.9,1
+PBG-200798,19,Yorkshire and the Humber,Everyday,45,4658,3313,724,2,Yes,No,Yes,0,0,2,Monthly,0,60,3000,36,0.22,6.42,1
+PBG-200385,46,Yorkshire and the Humber,Everyday,40,1483,1561,734,1,No,No,Yes,3,1,,Monthly,0,57,3000,24,0.27,6.22,0
+PBG-200466,58,Northern Ireland,Everyday,12,1314,240,594,2,No,No,Yes,2,0,,Monthly,0,87,10000,36,0.09,10.38,0
+PBG-200238,45,East Midlands,Plus,106,1234,224,655,3,Yes,Yes,Yes,1,1,4,No fixed term,7,92,2000,24,0.11,5.78,1
+PBG-200825,39,North East,Everyday,20,4304,3686,621,4,No,Yes,Yes,2,0,1,No fixed term,0,76,15000,12,0.37,13.24,1
+PBG-201062,35,East Midlands,Everyday,48,2508,2259,727,1,No,Yes,Yes,1,0,2,Monthly,0,87,5000,24,0.2,5.37,1
+PBG-200627,48,West Midlands,Premium,17,3295,4457,695,2,Yes,No,Yes,3,0,4,Annual,16.99,,10000,60,0.1,8.12,1
+PBG-200553,40,South East,Everyday,21,8282,,648,2,No,No,Yes,1,0,4,Annual,0,89,2000,60,0.38,8.71,1
+PBG-200323,45,West Midlands,Everyday,84,2748,3765,748,2,No,No,Yes,1,2,3,Monthly,0,57,5000,36,0.41,5.24,1
+PBG-200536,41,East Midlands,Premium,40,2653,2659,678,3,Yes,No,Yes,1,2,1,Monthly,16.99,73,7500,24,0.27,7.69,0
+PBG-200635,34,North East,Plus,23,1553,677,750,4,No,No,Yes,1,0,4,No fixed term,7,77,2000,60,0.14,5.77,1
+PBG-200068,33,South East,Plus,40,1900,,674,4,No,No,No,0,0,3,No fixed term,7,55,2000,60,0.14,7.2,1
+PBG-200471,18,London,Premium,31,1934,820,624,4,Yes,No,Yes,2,1,4,No fixed term,16.99,84,7500,12,0.27,11.11,0
+PBG-200270,37,London,Plus,35,3472,4021,703,1,No,No,No,3,0,2,Annual,7,41,2000,12,0.26,6.26,1
+PBG-200754,31,Scotland,Everyday,59,1792,1825,710,1,No,No,Yes,0,2,4,No fixed term,0,78,5000,12,0.54,10.49,0
+PBG-200373,35,Yorkshire and the Humber,Plus,20,1880,3110,654,2,No,No,Yes,2,1,5,No fixed term,7,100,2000,36,0.48,11.48,1
+PBG-200441,44,West Midlands,Plus,40,3091,,702,1,No,No,Yes,0,0,5,Monthly,7,74,7500,36,0.19,6.18,1
+PBG-200355,48,South West,Plus,14,3480,4418,514,3,No,Yes,Yes,2,1,2,Monthly,7,69,5000,12,0.16,13.44,0
+PBG-200733,58,East Midlands,Premium,58,3364,2935,662,2,Yes,No,Yes,2,0,4,Annual,16.99,94,1000,36,0.12,7.48,1
+PBG-200335,30,East Midlands,Premium,23,1533,856,685,5,Yes,No,Yes,1,2,3,Monthly,16.99,50,5000,24,0.37,9.09,1
+PBG-201150,25,Yorkshire and the Humber,Plus,31,2009,2543,736,4,Yes,No,Yes,1,0,3,Monthly,7,66,3000,12,0.35,6.88,1
+PBG-201159,39,South West,Everyday,21,1068,908,647,2,Yes,No,Yes,1,0,3,Annual,0,95,2000,36,0.15,12.05,0
+PBG-200840,42,South West,Business,45,5337,4158,739,3,No,No,Yes,1,1,3,Annual,12,68,15000,36,0.5,8.85,1
+PBG-200674,26,London,Everyday,60,3866,1860,740,3,Yes,No,Yes,0,0,3,Monthly,0,53,25000,36,0.1,6.15,1
+PBG-200100,35,Scotland,Everyday,11,6941,6448,411,2,No,No,No,0,0,4,Annual,0,,7500,36,0.3,18.79,0
+PBG-200269,53,South East,Everyday,22,4025,1924,556,1,No,No,Yes,3,0,3,Monthly,0,71,1000,36,0.13,12.89,1
+PBG-200952,56,North East,Premium,13,3477,3057,709,3,No,Yes,No,0,0,4,Annual,16.99,61,1000,12,0.15,8.56,1
+PBG-201088,48,South East,Everyday,91,2342,2707,594,1,No,No,No,1,0,3,Annual,0,93,5000,12,0.1,10.15,1
+PBG-201098,53,Yorkshire and the Humber,Plus,76,2110,1646,674,2,Yes,No,Yes,5,0,1,No fixed term,7,100,7500,36,0.26,8.6,1
+PBG-200423,27,London,Premium,47,2471,1448,640,3,Yes,No,No,1,0,1,No fixed term,16.99,45,2000,36,0.37,11.06,1
+PBG-200036,46,Scotland,Everyday,68,4054,2998,577,4,Yes,No,Yes,1,0,,No fixed term,0,76,7500,60,0.13,11.74,1
+PBG-201031,31,North West,Everyday,22,5639,2067,792,2,Yes,No,No,0,0,4,No fixed term,0,65,20000,36,0.22,3.9,1
+PBG-201182,29,West Midlands,Everyday,26,2891,3228,765,2,Yes,No,Yes,2,0,4,Monthly,0,78,7500,12,0.42,6.39,0
+PBG-200267,36,South East,Business,16,4076,1489,585,1,No,No,Yes,1,1,4,No fixed term,12,94,2000,36,0.08,11.06,1
+PBG-200929,36,South West,Everyday,9,3816,1604,603,1,Yes,No,Yes,1,1,2,Annual,0,100,15000,24,0.06,9.55,0
+PBG-200310,41,North West,Plus,25,4137,3798,741,1,No,No,Yes,0,0,5,No fixed term,7,94,20000,60,0.17,4.59,1
+PBG-200541,46,London,Everyday,55,,1657,672,4,Yes,No,,1,0,4,Annual,0,80,15000,36,0.1,7.35,1
+PBG-200478,43,East Midlands,Plus,42,6847,5398,726,3,Yes,No,No,0,3,5,No fixed term,7,84,20000,36,0.4,8.66,0
+PBG-200655,48,Wales,,53,1447,2703,690,4,Yes,Yes,Yes,0,2,,Annual,16.99,100,7500,12,0.35,8.15,1
+PBG-200997,27,,Premium,18,1800,1002,545,1,Yes,No,Yes,3,0,5,Monthly,16.99,100,2000,12,0.31,15.49,0
+PBG-201181,26,South West,Premium,57,4811,2879,749,1,Yes,No,No,2,1,4,Monthly,16.99,57,15000,24,0.12,6.11,1
+PBG-200422,46,London,Everyday,9,4762,2687,765,2,Yes,No,Yes,2,0,2,No fixed term,0,70,20000,36,0.11,3.9,1
+PBG-200201,31,South East,Plus,52,4431,4709,587,2,No,No,Yes,2,1,5,Annual,7,85,3000,24,0.22,11.45,1
+PBG-200857,35,North East,Everyday,86,5195,3538,548,4,Yes,No,Yes,2,0,5,Annual,0,,5000,12,0.54,11.89,1
+PBG-201076,37,North East,Premium,70,1317,1014,390,2,No,No,Yes,0,0,5,No fixed term,16.99,65,10000,60,0.21,20.19,0
+PBG-200176,45,London,Premium,20,3832,2139,669,3,No,No,Yes,3,1,4,Monthly,16.99,89,15000,36,0.3,9.4,1
+PBG-200273,44,London,Plus,46,3530,2678,690,4,No,Yes,No,3,2,1,Annual,7,89,1000,48,0.5,9.98,1
+PBG-201074,29,West Midlands,Premium,63,1912,1383,663,4,Yes,Yes,Yes,3,1,5,No fixed term,16.99,80,5000,24,0.1,10.09,1
+PBG-200990,33,Yorkshire and the Humber,Everyday,21,3572,,729,3,Yes,No,Yes,2,0,5,Monthly,0,100,3000,12,0.34,9.19,0
+PBG-200776,33,London,Premium,5,2198,1506,697,2,No,No,Yes,1,3,3,No fixed term,16.99,91,7500,24,0.35,,0
+PBG-201195,38,East Midlands,Everyday,49,2943,3826,659,3,No,No,Yes,1,0,,Annual,0,96,2000,36,0.08,6.67,0
+PBG-200011,43,Scotland,Plus,10,4100,4283,662,4,Yes,No,Yes,1,0,2,No fixed term,7,97,7500,12,0.2,7.51,0
+PBG-200487,43,London,Everyday,53,5418,2513,574,1,Yes,No,No,1,2,4,Monthly,0,54,2000,60,0.34,12.3,0
+PBG-200248,39,West Midlands,Everyday,32,,9896,768,2,Yes,No,Yes,4,0,3,Annual,0,98,25000,36,0.11,3.9,1
+PBG-200802,49,North East,Business,46,3971,,614,3,No,No,No,1,0,3,Monthly,12,67,1000,60,0.24,11.82,1
+PBG-200696,37,Scotland,,28,3397,3597,673,1,Yes,Yes,No,1,0,3,No fixed term,7,33,3000,24,0.26,8.26,1
+PBG-200597,25,Scotland,Everyday,16,1748,0,630,1,No,No,No,1,0,1,Annual,0,68,2000,48,0.51,13.01,0
+PBG-200757,36,South West,Everyday,40,6819,6024,,3,Yes,No,Yes,1,0,5,Annual,0,84,7500,48,0.28,7.43,1
+PBG-200749,23,London,Plus,47,2193,1819,698,3,No,No,Yes,2,0,2,Annual,7,77,5000,12,0.27,6.8,1
+PBG-200022,31,West Midlands,Everyday,70,3343,244,620,1,No,No,Yes,3,2,1,Annual,0,73,7500,48,0.48,11,0
+PBG-201197,39,Scotland,Everyday,7,3070,3164,722,4,No,Yes,Yes,0,1,4,Monthly,0,95,10000,48,0.14,5.24,0
+PBG-201117,41,London,Everyday,28,4447,548,568,3,Yes,Yes,Yes,0,0,4,Monthly,0,49,5000,24,0.09,11.43,1
+PBG-200193,54,East Midlands,Everyday,29,3051,2790,584,2,No,Yes,Yes,0,0,2,Annual,0,70,7500,24,0.26,15.59,1
+PBG-200495,39,Wales,Everyday,56,2812,2454,611,3,No,No,Yes,0,0,2,Monthly,0,,7500,24,0.35,11.73,0
+PBG-200656,39,South West,Everyday,11,6618,6681,673,1,No,No,Yes,1,3,1,Annual,0,100,1000,24,,9.25,1
+PBG-200729,18,West Midlands,Everyday,20,1693,1489,779,4,Yes,Yes,No,2,3,4,No fixed term,0,85,7500,60,0.51,7.94,1
+PBG-200484,42,South West,Everyday,41,1685,0,648,2,No,No,Yes,1,0,,Monthly,0,82,2000,36,0.21,10.4,1
+PBG-200223,22,South West,Plus,38,4900,4159,726,1,Yes,No,Yes,6,0,5,Annual,7,79,20000,48,0.21,6.77,1
+PBG-201011,,East Midlands,Premium,11,1712,1423,669,1,Yes,No,Yes,1,0,4,Monthly,16.99,86,2000,12,0.27,9.5,0
+PBG-200172,49,London,Premium,39,2512,2076,618,3,Yes,No,No,2,0,1,Monthly,16.99,86,10000,12,0.29,10.8,0
+PBG-200313,41,London,Plus,27,4217,1950,711,2,Yes,Yes,Yes,2,0,3,Monthly,7,64,2000,36,0.08,7.16,1
+PBG-200801,52,North West,Everyday,56,2025,2492,677,1,No,No,Yes,1,2,,Monthly,0,62,3000,24,0.36,11.69,1
+PBG-201116,32,South East,Everyday,58,4301,4758,642,3,Yes,Yes,Yes,2,1,4,Annual,0,78,2000,48,0.32,8.7,1
+PBG-200410,38,London,Business,44,4453,5890,585,1,No,No,Yes,2,0,2,No fixed term,12,80,3000,24,0.36,13.23,0
+PBG-200224,36,Scotland,Everyday,42,1613,1146,630,1,Yes,No,Yes,1,0,3,Monthly,0,70,25000,36,0.15,7.45,0
+PBG-200146,38,West Midlands,Premium,19,2800,2691,622,3,No,No,Yes,5,1,5,No fixed term,16.99,,2000,48,0.18,8.85,1
+PBG-200534,22,Wales,Everyday,9,2375,463,,4,No,No,Yes,0,0,2,Annual,0,92,1000,24,0.24,10.49,1
+PBG-200686,31,South West,Plus,28,3987,,798,1,Yes,No,Yes,2,0,3,No fixed term,7,100,7500,36,0.28,4.03,1
+PBG-200883,52,Scotland,Premium,51,2161,466,685,4,Yes,Yes,Yes,0,1,5,Monthly,16.99,86,7500,36,,6.45,0
+PBG-200714,49,South West,Everyday,50,5368,4719,665,3,Yes,Yes,No,1,0,4,Annual,0,36,1000,48,0.18,9.14,1
+PBG-200219,41,West Midlands,Premium,37,2583,,576,4,No,No,Yes,1,0,4,Monthly,16.99,87,15000,48,0.21,13.34,0
+PBG-201131,47,North East,Premium,53,3843,2589,626,4,Yes,No,Yes,2,0,4,Monthly,16.99,33,10000,12,0.36,8.58,1
+PBG-200966,44,South East,Plus,29,2212,851,757,4,Yes,No,Yes,2,0,1,Monthly,7,94,7500,60,0.28,6.96,1
+PBG-200299,36,North West,Business,29,5794,2791,623,3,Yes,No,Yes,2,0,4,No fixed term,12,,5000,24,0.2,9.66,1
+PBG-200106,27,Scotland,Business,50,1910,2451,603,1,No,No,No,2,0,1,Annual,12,38,7500,24,0.13,,0
+PBG-200535,49,Northern Ireland,Plus,38,4227,3236,571,5,No,No,No,4,0,4,No fixed term,7,61,2000,36,0.29,12.44,0
+PBG-200235,18,,Premium,65,1969,,745,2,Yes,No,Yes,0,0,,Monthly,16.99,63,7500,48,0.45,6.05,1
+PBG-200806,71,North West,Premium,62,4216,3685,641,1,Yes,No,Yes,0,0,3,Annual,16.99,72,2000,24,0.27,12.54,1
+PBG-200304,29,London,Plus,29,1591,574,519,2,No,Yes,Yes,3,0,5,Annual,7,99,7500,12,0.23,14.74,1
+PBG-200019,49,North West,,58,3117,1978,584,2,Yes,No,Yes,1,3,3,Annual,0,100,10000,48,0.29,13.41,0
+PBG-200796,43,London,Plus,66,5656,1800,561,1,Yes,No,Yes,0,0,5,No fixed term,7,81,2000,24,0.07,11.76,1
+PBG-200899,40,North East,Everyday,71,3221,3330,667,1,No,No,Yes,2,0,4,No fixed term,0,58,15000,24,0.17,8.38,1
+PBG-200740,47,North West,Plus,32,4917,1374,668,2,Yes,No,No,4,1,2,Annual,7,40,10000,36,0.51,10.63,0
+PBG-200940,40,South East,Everyday,36,2030,0,620,2,No,No,No,2,0,4,No fixed term,0,89,1000,36,0.23,10.89,1
+PBG-200141,34,Scotland,Plus,9,4235,5386,643,3,No,No,Yes,1,0,4,Annual,7,100,3000,12,0.24,11,1
+PBG-200117,38,West Midlands,Everyday,19,2625,1827,645,3,Yes,No,No,1,0,5,Monthly,0,46,3000,24,0.33,7.62,0
+PBG-200170,25,Wales,Everyday,74,2586,2003,569,1,Yes,Yes,Yes,0,0,1,Annual,0,84,2000,12,0.21,,1
+PBG-200306,31,London,Everyday,57,2966,3682,530,1,Yes,No,No,2,1,4,Annual,0,50,1000,36,0.32,14.71,1
+PBG-200875,51,London,Everyday,81,2973,1227,708,1,Yes,No,Yes,2,0,,Monthly,0,85,5000,60,0.11,6.37,1
+PBG-201133,23,London,Everyday,44,,2286,717,3,No,No,Yes,3,2,,Annual,0,82,5000,36,0.3,6.64,1
+PBG-200522,38,London,Everyday,33,3598,2777,685,3,No,No,Yes,3,0,2,Monthly,0,70,1000,24,0.1,7.36,1
+PBG-200043,18,South East,Everyday,54,2156,914,585,1,Yes,No,No,3,0,2,No fixed term,0,90,3000,12,0.27,12.61,1
+PBG-200132,31,Scotland,Plus,46,1683,2535,652,1,No,No,Yes,6,0,,Monthly,7,65,3000,48,0.34,9.23,0
+PBG-200405,31,Wales,Everyday,68,9195,8311,599,5,No,No,No,4,0,1,Annual,0,51,1000,48,0.09,10.32,1
+PBG-200804,62,Yorkshire and the Humber,Plus,33,5934,3145,513,3,Yes,Yes,Yes,2,0,2,No fixed term,7,100,5000,48,0.26,14.05,1
+PBG-200305,35,Wales,Everyday,26,3984,3085,682,4,Yes,No,Yes,2,0,2,Annual,0,78,20000,24,0.46,6.9,1
+PBG-200156,54,Yorkshire and the Humber,Plus,50,4619,2026,619,1,,No,Yes,2,0,4,Annual,7,79,15000,48,0.12,,1
+PBG-201085,34,Wales,Everyday,75,4513,3636,646,3,,No,Yes,2,1,4,Monthly,0,86,3000,48,0.29,10.65,1
+PBG-200066,34,London,Plus,113,2147,931,748,3,Yes,No,Yes,1,0,3,Monthly,7,100,2000,48,0.03,3.9,1
+PBG-200480,40,North West,Everyday,42,2519,3812,751,1,Yes,No,Yes,2,0,3,Monthly,0,80,20000,36,0.5,7.61,0
+PBG-201160,28,,Everyday,40,1389,1488,721,4,Yes,No,,0,3,4,Monthly,0,100,3000,24,0.56,9.32,0
+PBG-200989,,Yorkshire and the Humber,Everyday,22,4485,2830,708,2,No,No,No,2,0,3,Monthly,0,39,7500,36,0.33,9.48,1
+PBG-200008,41,East Midlands,Plus,27,3548,3399,745,2,Yes,No,Yes,3,1,5,Annual,7,100,10000,12,0.23,5.75,1
+PBG-200445,,South East,Plus,34,1983,1783,614,4,No,No,Yes,1,0,,Monthly,7,59,1000,48,0.19,11.04,0
+PBG-200075,50,South East,Everyday,17,1895,1604,611,1,No,No,Yes,2,0,4,No fixed term,0,93,3000,48,0.43,12.65,0
+PBG-200574,41,East Midlands,Everyday,44,2517,,696,4,Yes,No,Yes,0,1,3,No fixed term,0,54,5000,36,0.08,5.78,1
+PBG-200173,36,,Everyday,22,3953,1329,735,2,No,Yes,Yes,1,1,2,No fixed term,0,96,2000,36,0.32,5.24,1
+PBG-201114,21,Scotland,Plus,36,2513,2296,678,3,No,No,No,2,0,4,Annual,7,,3000,36,0.3,,1
+PBG-200606,26,South West,Plus,31,2371,1719,521,4,No,Yes,Yes,0,0,4,Monthly,7,100,3000,36,0.21,14.64,1
+PBG-201035,27,Scotland,Everyday,66,5348,6228,672,1,Yes,No,Yes,5,2,5,Annual,0,,10000,12,0.36,9.08,0
+PBG-200128,43,South East,Everyday,24,3079,398,636,1,No,No,Yes,1,0,2,No fixed term,0,79,5000,36,,9.33,1
+PBG-200993,30,South East,Business,46,6180,7113,614,3,No,No,Yes,1,1,4,Monthly,12,88,7500,24,0.14,8.26,1
+PBG-201017,69,Scotland,Everyday,26,4871,1784,725,1,No,No,Yes,1,0,3,Monthly,0,84,3000,36,0.37,7.09,1
+PBG-200454,30,West Midlands,Everyday,58,1630,273,642,1,No,No,,2,0,2,No fixed term,0,63,15000,24,0.14,10.77,1
+PBG-200969,40,London,Premium,41,2560,,792,3,Yes,No,Yes,2,1,2,No fixed term,16.99,100,7500,24,0.06,3.9,1
+PBG-200065,58,Northern Ireland,Premium,28,2068,2225,792,1,Yes,No,Yes,3,0,5,Monthly,16.99,92,10000,48,0.23,5.23,1
+PBG-200542,41,North East,Business,38,5893,4862,837,1,Yes,No,No,2,1,4,No fixed term,12,55,5000,48,0.29,3.9,1
+PBG-200887,53,South East,Plus,30,2255,992,695,1,Yes,Yes,Yes,4,0,4,Monthly,7,81,7500,36,0.06,7.74,1
+PBG-201144,62,Yorkshire and the Humber,Everyday,43,4359,1121,734,1,No,No,Yes,2,0,4,No fixed term,0,76,7500,36,0.3,9.9,1
+PBG-200835,47,North West,Business,32,3854,818,631,2,No,No,Yes,1,0,4,Monthly,12,95,3000,36,0.06,7.61,1
+PBG-201163,18,South West,Everyday,17,,1292,708,1,No,No,Yes,0,0,5,Monthly,0,97,3000,48,0.31,8.42,1
+PBG-200479,31,London,Everyday,67,1437,0,545,4,No,Yes,No,2,2,2,Monthly,0,55,1000,60,0.31,13.42,0
+PBG-201010,57,West Midlands,Everyday,75,6714,,636,2,Yes,No,Yes,1,1,,Annual,0,100,5000,12,0.1,9.41,1
+PBG-200845,52,South West,Premium,67,3704,1017,701,1,Yes,Yes,No,2,0,4,Annual,16.99,77,5000,24,0.13,5.27,1
+PBG-200169,47,London,Plus,46,1919,387,640,4,,No,Yes,2,1,3,Annual,7,52,10000,36,0.29,11.52,0
+PBG-201119,43,Scotland,Everyday,39,7830,2450,688,1,Yes,No,Yes,0,1,5,Monthly,0,100,15000,36,0.15,8.48,1
+PBG-200916,30,Yorkshire and the Humber,Everyday,15,5772,3438,586,4,No,Yes,Yes,2,0,4,Monthly,0,92,2000,36,0.21,10.6,1
+PBG-200265,44,North West,Everyday,36,2684,2125,564,2,Yes,Yes,No,0,1,5,Annual,0,37,3000,24,0.15,11.91,0
+PBG-200181,46,North West,Everyday,41,4371,4510,537,1,Yes,No,No,0,0,2,No fixed term,0,61,7500,36,0.2,13.62,0
+PBG-200390,56,Yorkshire and the Humber,Plus,44,4111,5095,758,2,Yes,Yes,No,4,1,5,Monthly,7,95,3000,24,0.03,4.47,1
+PBG-200076,44,London,Everyday,124,5665,4634,704,1,No,No,No,2,0,1,Monthly,0,49,5000,24,0.31,8.94,1
+PBG-200926,57,East Midlands,,27,2368,1399,660,2,Yes,No,No,2,1,3,Annual,12,89,5000,24,0.13,9.53,0
+PBG-200225,47,West Midlands,,54,3022,2415,695,1,No,No,Yes,1,1,1,No fixed term,7,82,7500,24,0.22,6.33,0
+PBG-200985,54,West Midlands,Business,22,4658,1846,612,4,Yes,No,Yes,1,1,4,No fixed term,12,68,2000,48,0.1,8.48,1
+PBG-201112,45,East Midlands,,25,1644,1947,659,1,Yes,No,,2,0,4,No fixed term,0,87,7500,60,0.18,8.43,1
+PBG-200007,18,Wales,Everyday,53,2205,2264,483,4,No,No,Yes,2,0,4,No fixed term,0,100,1000,12,0.08,14.02,0
+PBG-200203,22,Yorkshire and the Humber,Premium,25,1900,2141,,2,No,No,Yes,3,0,3,No fixed term,16.99,44,3000,60,0.07,10.02,1
+PBG-200364,44,London,Premium,14,3151,1082,578,1,No,No,Yes,3,0,4,No fixed term,16.99,55,2000,48,0.06,12.58,1
+PBG-200346,,North West,Everyday,22,3805,,718,5,Yes,No,Yes,2,1,2,Annual,0,85,5000,24,0.17,6.07,1
+PBG-200570,62,London,Everyday,60,2842,715,700,3,No,No,Yes,3,0,4,Monthly,0,99,20000,36,0.25,7.91,1
+PBG-201106,31,West Midlands,Plus,40,3528,3348,552,3,No,Yes,Yes,3,2,5,No fixed term,7,100,25000,60,0.23,13.46,0
+PBG-200091,27,London,Everyday,21,1558,1146,576,3,No,Yes,No,1,0,5,No fixed term,0,24,20000,24,,11.3,0
+PBG-201003,44,London,Premium,89,6262,6523,754,4,Yes,No,Yes,1,0,5,Annual,16.99,82,5000,24,0.03,4.42,1
+PBG-201099,30,London,Plus,99,2148,1125,787,4,Yes,No,Yes,3,0,3,Annual,7,98,15000,36,,3.9,1
+PBG-200388,22,South East,Everyday,32,6106,5756,665,3,Yes,No,No,3,0,3,No fixed term,0,92,7500,24,0.17,9.66,1
+PBG-200751,52,Northern Ireland,Everyday,75,1721,1451,777,1,Yes,No,Yes,5,0,4,No fixed term,0,100,10000,24,0.12,3.95,1
+PBG-200492,39,South East,Everyday,48,6445,2981,576,1,No,No,Yes,2,0,4,Monthly,0,100,15000,12,0.11,12.31,1
+PBG-201165,43,London,Premium,14,900,944,649,2,Yes,No,Yes,2,0,5,No fixed term,16.99,81,5000,24,0.23,8.1,1
+PBG-200503,30,East Midlands,Plus,63,4858,2530,666,1,Yes,No,Yes,3,0,5,Annual,7,100,3000,24,0.32,10.23,1
+PBG-200356,40,East Midlands,Plus,38,3017,463,688,2,Yes,No,Yes,1,2,4,No fixed term,7,86,25000,12,0.56,11.3,0
+PBG-200217,31,North West,Everyday,20,3002,3978,793,3,No,No,No,3,0,3,No fixed term,0,66,10000,24,0.42,4.82,1
+PBG-201061,37,Scotland,Everyday,16,1502,1056,634,3,No,No,Yes,1,2,2,Monthly,0,100,10000,36,0.36,9.46,0
+PBG-200657,44,London,Business,23,2679,821,647,2,Yes,No,Yes,0,3,3,Annual,12,83,20000,60,0.24,11.57,0
+PBG-201091,56,North East,Premium,26,4150,4012,581,4,Yes,Yes,Yes,4,0,1,Monthly,16.99,88,20000,12,0.2,12.01,0
+PBG-200440,29,North East,Everyday,20,1964,,748,1,Yes,No,Yes,0,0,4,Annual,0,100,1000,48,0.32,4.61,1
+PBG-200955,58,North West,Plus,35,9500,11032,571,1,,No,Yes,1,0,5,Monthly,7,100,7500,12,0.44,11.79,1
+PBG-200120,18,London,Everyday,42,2375,1533,590,4,No,No,No,2,0,4,Monthly,0,52,5000,48,0.07,11.04,1
+PBG-200764,39,West Midlands,Everyday,15,2065,248,647,2,Yes,No,No,1,0,3,No fixed term,0,23,25000,36,0.2,9.07,0
+PBG-200712,19,Northern Ireland,Everyday,87,3198,3490,692,2,Yes,Yes,No,0,0,5,Annual,0,31,15000,12,0.15,11.35,1
+PBG-201056,39,South East,Everyday,24,8010,2183,674,4,Yes,Yes,Yes,0,0,5,No fixed term,0,48,5000,36,0.22,8.73,1
+PBG-200795,27,West Midlands,Premium,27,2269,1275,650,2,No,No,Yes,1,0,4,Monthly,16.99,93,2000,60,0.3,11.1,0
+PBG-200725,66,Yorkshire and the Humber,Plus,16,3209,4270,724,2,No,Yes,No,2,0,4,Monthly,7,,7500,24,0.04,5.44,1
+PBG-200634,43,North West,Everyday,57,1922,1672,658,1,,No,No,1,0,4,Annual,0,72,5000,24,0.15,9.93,1
+PBG-200242,47,North West,Everyday,54,900,755,744,1,Yes,No,Yes,2,0,3,Monthly,0,59,3000,48,0.31,7.17,1
+PBG-201171,43,London,Plus,44,3586,1646,756,3,Yes,No,Yes,0,1,2,Annual,7,100,5000,48,,6.69,1
+PBG-200049,40,London,Everyday,27,1911,1512,780,3,Yes,Yes,Yes,1,1,2,No fixed term,0,90,2000,36,0.06,3.9,1
+PBG-200069,30,South West,Everyday,11,1909,1813,674,3,No,No,Yes,1,3,1,No fixed term,0,100,15000,12,0.42,12.36,0
+PBG-200886,49,North West,Everyday,45,2919,1525,828,2,Yes,No,Yes,2,0,,Monthly,0,84,7500,24,0.08,3.9,1
+PBG-201190,34,London,Everyday,34,5601,5378,661,2,Yes,Yes,Yes,4,0,3,Monthly,0,28,1000,24,0.12,9.55,1
+PBG-200748,51,West Midlands,Premium,43,1605,584,817,2,Yes,No,Yes,0,1,3,Annual,16.99,77,15000,36,0.37,5.9,1
+PBG-200851,46,South West,Premium,23,3445,2206,850,1,Yes,No,Yes,2,0,5,Monthly,16.99,61,3000,60,0.23,4.05,1
+PBG-200666,23,London,Plus,23,6378,5283,552,2,No,No,No,2,1,5,Annual,7,52,10000,36,0.26,13.45,1
+PBG-200912,25,East Midlands,Everyday,38,6739,8622,752,4,Yes,No,Yes,2,0,5,Annual,0,76,3000,12,0.11,5.1,1
+PBG-201141,,South West,Plus,67,2564,2829,770,2,Yes,No,Yes,5,1,3,Annual,7,89,7500,36,0.17,3.9,1
+PBG-201037,51,West Midlands,Business,51,4075,4689,728,2,Yes,Yes,No,3,0,4,No fixed term,12,70,5000,36,0.13,5.8,1
+PBG-200424,38,Wales,,22,6283,2151,593,1,No,No,Yes,3,0,4,Monthly,0,87,2000,48,0.09,10.19,0
+PBG-200568,18,Wales,Everyday,42,2659,203,670,1,No,Yes,Yes,3,0,4,Annual,0,,5000,48,0.16,9.07,1
+PBG-200189,33,North West,Everyday,28,1904,1539,728,1,,No,Yes,8,0,4,Annual,0,84,5000,36,0.21,5.75,1
+PBG-201014,39,South East,Plus,92,3132,1688,649,2,Yes,No,Yes,2,0,4,Monthly,7,,20000,24,0.53,12.32,1
+PBG-201138,,North East,Plus,52,3913,3722,539,1,No,No,Yes,2,0,3,Monthly,7,100,7500,24,0.45,14,1
+PBG-200979,39,London,Plus,29,3911,2920,563,2,No,No,Yes,2,1,4,Annual,7,90,15000,48,0.3,14.94,1
+PBG-201038,44,Northern Ireland,Everyday,31,1935,2031,599,4,No,No,Yes,1,1,3,Monthly,0,93,5000,36,0.21,11.47,1
+PBG-200092,19,South East,Plus,37,2460,1868,666,4,No,No,Yes,2,0,2,No fixed term,7,74,1000,12,0.41,11.32,1
+PBG-200676,60,London,Everyday,74,6840,5618,555,1,No,No,Yes,2,0,4,Annual,0,91,7500,24,0.23,12.19,1
+PBG-201029,,North West,Plus,31,5050,,469,2,No,No,Yes,0,2,5,Monthly,7,98,2000,24,0.48,19.45,0
+PBG-200322,51,London,Business,28,1533,1752,731,1,Yes,No,Yes,2,0,4,No fixed term,12,79,3000,36,0.29,7.43,1
+PBG-200706,44,West Midlands,Plus,35,5336,6241,564,1,No,No,Yes,2,0,4,Monthly,7,99,3000,12,0.28,12.81,0
+PBG-200821,29,South East,Everyday,52,4316,3805,740,2,Yes,No,Yes,2,3,,Monthly,0,100,3000,24,0.3,7.76,1
+PBG-200734,42,Northern Ireland,Everyday,61,8624,6741,633,2,No,No,No,2,0,5,Monthly,0,80,3000,36,0.36,12.3,0
+PBG-200679,26,North West,Everyday,29,1255,816,642,2,No,No,Yes,2,0,3,Monthly,0,85,15000,36,0.36,10.43,1
+PBG-201130,33,South East,Everyday,24,2074,0,710,2,Yes,No,Yes,1,0,4,Annual,0,100,1000,48,0.4,9.61,1
+PBG-200394,35,South West,Premium,107,2566,144,549,3,No,No,Yes,2,1,3,Monthly,16.99,93,10000,12,0.08,9.31,1
+PBG-200737,65,North West,Business,83,4350,5437,685,2,No,No,Yes,3,1,3,Monthly,12,85,25000,12,0.32,8.49,0
+PBG-200841,35,East Midlands,Plus,21,6571,2145,,1,No,No,No,2,0,4,Monthly,7,80,5000,24,0.32,8.03,1
+PBG-200222,43,South West,Everyday,40,2503,654,670,2,Yes,No,Yes,2,0,3,Annual,0,52,10000,36,0.2,8.76,1
+PBG-200218,52,South East,Premium,49,,3767,700,1,No,No,Yes,0,1,4,Annual,16.99,80,2000,12,0.25,7.25,1
+PBG-200448,58,Yorkshire and the Humber,Everyday,46,2843,,620,3,No,No,No,4,0,4,Monthly,0,53,1000,48,0.2,11.95,0
+PBG-201015,47,Yorkshire and the Humber,Business,10,4804,3843,696,2,Yes,No,Yes,0,0,,Annual,12,60,15000,12,0.11,8.62,1
+PBG-200509,42,East Midlands,Plus,39,4584,4944,578,1,No,Yes,Yes,0,1,3,No fixed term,7,82,5000,48,0.13,8.95,1
+PBG-200866,32,South East,Everyday,13,,2734,764,2,No,No,No,1,0,,Monthly,0,59,2000,60,0.33,6.49,1
+PBG-200702,37,South East,Plus,44,5043,1527,773,3,Yes,No,Yes,3,1,4,Monthly,7,100,1000,60,0.1,3.9,1
+PBG-200051,19,South East,Everyday,51,1643,1287,727,2,Yes,No,No,1,0,3,No fixed term,0,61,3000,36,0.17,5.5,0
+PBG-200437,35,West Midlands,Everyday,34,1787,717,580,1,,No,Yes,1,0,3,Monthly,0,88,3000,36,,12.54,0
+PBG-200048,38,London,Everyday,67,2443,1492,715,2,Yes,No,No,1,2,4,Annual,0,92,5000,24,0.33,7.16,0
+PBG-200340,44,Northern Ireland,Premium,56,3251,2547,628,2,No,No,Yes,2,4,4,Annual,16.99,82,10000,48,0.39,11.01,0
+PBG-200668,45,Wales,Premium,58,,2446,588,5,No,Yes,Yes,0,1,1,No fixed term,16.99,71,25000,12,0.22,11.69,0
+PBG-200426,42,London,Premium,37,4202,2645,628,3,No,No,No,0,0,3,Monthly,16.99,28,5000,12,0.18,8.4,1
+PBG-200168,20,Northern Ireland,Everyday,33,2324,1453,,4,Yes,No,Yes,3,2,1,No fixed term,0,79,7500,12,0.34,6.35,0
+PBG-200977,25,North East,Plus,39,2124,691,668,1,Yes,No,Yes,2,0,2,Annual,7,74,15000,48,0.03,5.95,1
+PBG-200157,26,North West,Plus,34,3012,1378,689,1,Yes,Yes,Yes,3,0,4,Annual,7,94,2000,48,0.17,8.15,1
+PBG-200498,38,Scotland,Plus,63,,984,652,3,No,No,Yes,5,0,5,Annual,7,98,5000,36,0.19,8.73,1
+PBG-200077,46,North West,Premium,16,2503,280,605,4,Yes,No,Yes,2,0,5,No fixed term,16.99,57,10000,60,0.43,12.33,0
+PBG-200396,49,South East,Premium,48,1879,1220,767,3,Yes,No,Yes,3,2,4,No fixed term,16.99,52,2000,24,0.43,8.05,1
+PBG-200268,21,North West,Business,22,2673,1699,723,1,Yes,No,No,0,0,4,Monthly,12,72,15000,24,0.14,7.36,1
+PBG-200994,47,,Plus,41,1974,1425,635,3,Yes,No,Yes,2,3,4,Monthly,7,94,1000,48,0.31,11.3,1
+PBG-200658,24,South West,Everyday,40,2349,,707,2,Yes,Yes,Yes,3,2,4,Monthly,0,66,3000,24,0.22,4.77,0
+PBG-200591,24,London,Business,15,4910,3936,643,3,Yes,Yes,Yes,1,0,4,Annual,12,87,2000,60,0.35,10.25,0
+PBG-201060,48,North West,Everyday,71,2315,3436,708,1,Yes,No,Yes,0,1,1,Annual,0,77,3000,12,0.34,8.93,1
+PBG-200494,37,Wales,Premium,62,2135,1689,681,2,Yes,No,Yes,1,3,4,Annual,16.99,57,7500,48,0.28,9.52,0
+PBG-200458,53,London,Everyday,39,3936,3653,714,1,Yes,No,No,1,0,,Annual,0,37,1000,12,0.21,,1
+PBG-200949,42,London,Premium,27,5518,5227,649,4,No,No,No,3,0,4,Monthly,16.99,30,3000,24,0.24,8.34,1
+PBG-200352,61,Scotland,Premium,23,4857,4052,688,2,Yes,No,Yes,3,0,4,Annual,16.99,100,1000,24,0.38,9.74,1
+PBG-200089,18,London,Everyday,12,2720,731,702,3,Yes,No,No,4,0,4,Monthly,0,39,20000,24,0.1,,1
+PBG-200864,45,South East,Plus,18,3041,1426,685,5,,No,Yes,1,0,4,No fixed term,7,100,1000,12,0.19,8.47,1
+PBG-200369,42,North West,Everyday,58,3514,4269,,1,No,No,Yes,1,0,5,Annual,0,99,3000,24,0.21,14.07,1
+PBG-200013,37,South East,Everyday,16,4127,4111,762,3,Yes,Yes,Yes,2,2,3,Monthly,0,81,2000,36,0.22,6.39,0
+PBG-200429,48,East Midlands,Plus,31,4806,2971,560,2,No,No,Yes,0,1,4,Monthly,7,100,15000,12,0.14,11.44,0
+PBG-201151,32,South West,Everyday,79,2537,1334,,3,Yes,Yes,Yes,2,0,3,Monthly,0,82,15000,36,0.29,7.59,1
+PBG-200376,37,South East,Everyday,76,1338,365,730,3,Yes,No,Yes,3,0,3,Annual,0,96,5000,60,,8.1,1
+PBG-201148,34,London,Everyday,21,1528,441,703,3,No,Yes,Yes,1,4,4,Annual,0,77,2000,12,0.34,7.06,0
+PBG-201043,31,North East,Everyday,51,6190,4531,480,2,No,No,Yes,3,0,4,No fixed term,0,,5000,24,0.39,16.06,1
+PBG-200530,42,London,Plus,22,5367,3828,627,2,No,No,No,4,0,,Monthly,7,49,10000,60,0.21,10.77,1
+PBG-200823,46,Wales,Everyday,106,2929,2848,687,4,No,Yes,No,3,0,4,Monthly,0,54,25000,60,0.08,8.99,0
+PBG-200837,36,East Midlands,Everyday,18,2725,2285,683,1,No,No,Yes,3,0,3,Monthly,0,100,2000,24,0.14,7.8,1
+PBG-200913,52,Scotland,Everyday,25,2389,2426,666,2,Yes,No,Yes,2,0,4,Annual,0,75,7500,60,0.14,7.71,0
+PBG-200095,49,South West,Premium,33,2503,,766,3,Yes,No,Yes,3,0,1,No fixed term,16.99,92,5000,36,0.1,4.79,1
+PBG-200688,43,South East,Plus,92,4855,,,2,Yes,Yes,Yes,0,0,3,Annual,7,89,5000,24,0.39,9.13,1
+PBG-200485,26,South East,Everyday,80,,591,630,3,Yes,No,Yes,2,0,3,Annual,0,78,1000,48,0.31,9.5,1
+PBG-201109,51,East Midlands,Everyday,34,3770,2367,730,2,No,No,Yes,5,0,3,No fixed term,0,100,10000,48,0.05,3.9,1
+PBG-201032,33,South East,Business,42,4430,257,626,2,Yes,No,Yes,1,3,3,No fixed term,12,66,15000,48,0.34,8.9,0
+PBG-200882,62,East Midlands,Everyday,42,2487,3281,572,1,No,No,Yes,1,0,3,Monthly,0,100,25000,12,0.06,11.3,0
+PBG-200562,29,Northern Ireland,Premium,16,6102,,,2,No,Yes,No,2,0,1,No fixed term,16.99,91,20000,36,0.13,5.36,1
+PBG-200481,48,Scotland,Everyday,20,2331,1970,643,1,Yes,No,Yes,3,0,4,Annual,0,98,5000,36,0.33,11.95,1
+PBG-200682,50,South East,Premium,35,2571,790,643,3,No,No,Yes,2,2,4,No fixed term,16.99,74,7500,24,0.36,12.21,1
+PBG-200874,52,North East,Business,61,5171,1972,475,4,No,No,Yes,3,0,2,No fixed term,12,84,5000,24,0.31,15.1,1
+PBG-200642,34,London,Everyday,50,3336,3659,725,2,Yes,No,Yes,1,1,2,Monthly,0,100,7500,24,0.3,8.37,1
+PBG-200010,55,South West,Everyday,64,2164,2327,665,1,No,No,Yes,1,0,3,Annual,0,100,20000,36,0.61,12.52,0
+PBG-200693,28,South West,Everyday,88,4546,4039,666,1,Yes,No,Yes,1,0,1,Annual,0,100,2000,24,0.13,8.59,1
+PBG-200500,33,Scotland,Plus,38,2239,2633,633,1,Yes,No,No,0,0,2,No fixed term,7,25,2000,12,0.18,9.39,0
+PBG-200395,19,North East,Everyday,3,2562,2710,583,1,No,No,Yes,1,1,4,Monthly,0,,7500,36,0.15,10.6,1
+PBG-200687,30,Wales,Premium,101,2199,2148,696,4,,No,Yes,3,1,3,No fixed term,16.99,68,10000,36,0.35,9.43,0
+PBG-201086,18,Yorkshire and the Humber,Plus,16,6538,2394,562,2,No,No,Yes,1,0,5,Annual,7,63,2000,60,0.36,15.28,1
+PBG-200301,44,South East,Plus,31,1651,0,791,3,Yes,No,Yes,1,0,5,Annual,7,95,3000,36,0.11,3.9,1
+PBG-201105,38,London,Everyday,21,3142,2776,475,2,No,No,Yes,2,0,1,Monthly,0,,15000,12,0.35,,0
+PBG-200807,40,East Midlands,Everyday,44,2302,2179,631,3,Yes,No,No,1,0,3,Annual,0,80,3000,48,0.47,11.49,1
+PBG-200718,27,South East,Plus,14,3704,1930,568,1,No,No,Yes,0,0,1,Monthly,7,85,2000,36,0.25,11.03,1
+PBG-200710,55,South West,Everyday,41,1461,1517,739,1,No,No,No,2,4,3,Annual,0,47,7500,48,0.19,6.79,0
+PBG-200599,33,South West,Premium,48,2349,113,718,4,No,No,Yes,2,0,4,Monthly,16.99,100,3000,36,0.35,7.56,1
+PBG-200374,33,Northern Ireland,Plus,24,4374,2518,770,4,Yes,Yes,No,1,4,3,Annual,7,49,5000,48,0.42,6.04,0
+PBG-200489,32,London,Everyday,20,3149,2385,683,1,Yes,No,No,4,1,2,Annual,0,49,3000,60,0.18,9.94,1
+PBG-200018,69,West Midlands,Everyday,27,3123,2130,616,4,,No,Yes,1,2,5,Monthly,0,96,3000,24,0.44,12.33,0
+PBG-200285,40,North East,Business,60,2080,488,636,1,No,No,Yes,1,0,3,No fixed term,12,97,2000,36,0.39,8.96,1
+PBG-201046,42,Wales,Premium,29,9500,7376,629,2,Yes,No,Yes,2,0,3,No fixed term,16.99,94,10000,36,0.54,15.21,1
+PBG-200505,37,West Midlands,Business,29,9960,1709,747,4,Yes,No,Yes,1,0,2,Monthly,12,58,5000,24,0.11,7.11,1
+PBG-200361,32,North West,Premium,36,4182,4540,668,1,Yes,No,Yes,0,0,4,No fixed term,16.99,100,25000,36,0.03,7.34,1
+PBG-200101,50,London,Plus,49,8019,9717,,1,No,No,No,2,3,3,No fixed term,7,84,10000,36,,7.54,0
+PBG-200620,40,Wales,Premium,52,6768,1585,693,2,No,No,No,2,0,4,Annual,16.99,64,25000,24,0.44,8.46,0
+PBG-200366,38,South East,Everyday,66,6297,4669,682,3,Yes,No,Yes,1,0,5,Annual,0,69,5000,60,0.27,8.63,1
+PBG-200241,46,West Midlands,Premium,67,1316,553,627,3,No,No,Yes,0,0,4,Annual,16.99,57,15000,12,0.29,10.43,1
+PBG-200184,47,Yorkshire and the Humber,Everyday,4,4473,4280,489,3,No,No,Yes,1,1,3,Annual,0,99,7500,12,0.12,13.36,0
+PBG-201051,58,West Midlands,Everyday,12,2846,1324,561,4,No,Yes,Yes,2,0,1,Monthly,0,80,15000,24,0.12,12.43,0
+PBG-201081,30,London,Business,77,1170,0,661,3,Yes,No,Yes,0,0,3,No fixed term,12,100,7500,36,0.07,6.37,0
+PBG-200724,28,West Midlands,Premium,18,1571,1374,647,1,,No,No,0,0,5,Annual,16.99,38,5000,24,0.11,10.15,1
+PBG-200544,29,Yorkshire and the Humber,Everyday,12,3713,3095,778,2,Yes,Yes,No,2,0,4,Monthly,0,79,7500,24,0.06,5.09,0
+PBG-200408,61,South West,Plus,30,3149,982,629,1,No,Yes,Yes,2,1,4,Annual,7,20,5000,24,0.49,12.28,1
+PBG-201104,41,London,Everyday,54,3176,1476,523,2,No,No,Yes,5,0,3,Monthly,0,72,3000,36,0.1,14.09,1
+PBG-200571,39,West Midlands,Premium,32,4091,2291,622,1,No,No,No,2,1,,Annual,16.99,48,2000,48,0.17,10.64,0
+PBG-201124,24,South West,Business,81,7219,2588,724,3,Yes,No,Yes,4,0,3,Annual,12,86,7500,12,0.24,8.34,0
+PBG-200639,32,London,Everyday,55,1928,2381,507,1,No,No,Yes,0,1,3,Monthly,0,83,7500,24,0.24,14.63,1
+PBG-200839,32,Wales,Everyday,42,1875,2043,639,3,Yes,No,Yes,3,1,3,No fixed term,0,100,5000,24,0.23,8.89,1
+PBG-200777,21,East Midlands,,32,1985,1763,,3,Yes,No,Yes,3,0,,No fixed term,7,53,2000,24,0.24,6.53,1
+PBG-200785,48,West Midlands,Everyday,48,2686,1766,667,3,No,No,Yes,1,2,5,Monthly,0,100,5000,60,0.47,10.88,1
+PBG-200124,68,London,Everyday,11,3436,1480,774,4,Yes,Yes,Yes,1,0,4,Monthly,0,100,1000,24,0.44,5.63,1
+PBG-200624,41,Yorkshire and the Humber,Everyday,40,1328,1244,612,1,No,No,Yes,1,0,5,Annual,0,100,7500,24,0.58,13.05,0
+PBG-200517,39,Yorkshire and the Humber,Premium,34,2613,3135,656,1,No,Yes,No,3,0,4,Monthly,16.99,70,25000,60,0.11,9.41,0
+PBG-200070,32,North West,Business,50,4102,3298,692,1,No,No,Yes,0,0,2,No fixed term,12,94,10000,36,0.22,6.84,1
+PBG-200336,38,South East,Business,40,2951,3041,719,3,,Yes,Yes,0,0,4,No fixed term,12,89,2000,36,0.22,8.06,1
+PBG-200406,26,Yorkshire and the Humber,Plus,11,6042,3325,664,2,No,No,Yes,4,0,3,No fixed term,7,76,10000,24,0.23,10.23,0
+PBG-200867,34,West Midlands,Everyday,31,2061,1378,595,2,No,No,Yes,3,0,3,Annual,0,100,2000,24,0.12,10.14,1
+PBG-201063,47,Yorkshire and the Humber,Plus,32,4145,2878,702,1,No,No,Yes,4,0,1,Annual,7,98,5000,12,0.34,9.41,1
+PBG-201075,44,Scotland,Everyday,61,2397,1637,687,2,No,No,No,1,1,4,Monthly,0,58,1000,36,0.31,,1
+PBG-200829,18,East Midlands,Plus,23,3391,4036,592,2,No,No,Yes,0,0,4,Annual,7,43,10000,12,0.23,9.26,1
+PBG-200332,59,Northern Ireland,Everyday,34,,1458,777,2,Yes,No,No,6,0,3,Annual,0,33,5000,12,0.31,6.31,1
+PBG-200227,44,North East,Everyday,47,3740,1731,656,2,Yes,No,Yes,2,0,4,Annual,0,86,3000,36,0.09,8.08,1
+PBG-200654,21,London,Business,44,3830,3594,666,1,No,No,No,3,0,4,No fixed term,12,40,5000,12,0.24,7.88,1
+PBG-201188,43,West Midlands,Premium,48,2604,3311,696,4,No,No,Yes,2,0,,Monthly,16.99,82,7500,48,0.13,5.54,1
+PBG-200558,20,Yorkshire and the Humber,Premium,18,4182,4262,593,4,Yes,Yes,No,1,0,2,No fixed term,16.99,45,15000,36,0.3,13.04,0
+PBG-200650,31,London,Plus,47,2499,2790,612,1,No,No,Yes,0,1,4,Annual,7,63,5000,36,0.22,12.28,0
+PBG-200722,30,North East,Everyday,37,1562,,549,4,No,No,Yes,1,2,3,Monthly,0,63,5000,24,0.38,15.2,1
+PBG-201009,28,Yorkshire and the Humber,Everyday,37,,774,631,1,Yes,No,Yes,1,0,4,Annual,0,91,3000,48,0.11,7.66,1
+PBG-200618,18,North East,Premium,16,1760,112,492,2,No,Yes,Yes,2,0,4,No fixed term,16.99,89,3000,24,0.37,14.75,0
+PBG-200025,53,West Midlands,Premium,31,2232,781,659,1,No,No,No,3,1,5,No fixed term,16.99,26,5000,24,0.05,6.99,1
+PBG-200847,43,Northern Ireland,Plus,40,2797,2020,675,3,No,No,Yes,5,0,3,Monthly,7,81,25000,12,0.43,9.19,0
+PBG-200382,34,East Midlands,Plus,48,2054,2248,634,4,No,No,Yes,2,1,2,Monthly,7,65,5000,36,0.5,10.43,1
+PBG-200610,43,North East,Plus,18,2582,2083,794,4,No,Yes,Yes,1,0,,No fixed term,7,,1000,24,0.25,5.26,1
+PBG-200861,24,South East,Everyday,34,1656,474,633,2,No,No,Yes,1,0,5,Monthly,0,70,5000,12,0.46,12.82,0
+PBG-200228,48,East Midlands,Everyday,30,9500,9457,562,1,No,No,Yes,4,0,3,Annual,0,86,7500,12,0.17,12.48,1
+PBG-200244,21,Yorkshire and the Humber,Everyday,33,5339,2414,679,1,Yes,No,Yes,1,0,4,Annual,0,74,3000,24,0.32,8.65,1
+PBG-200152,56,Wales,Premium,84,2154,2140,776,3,No,No,Yes,1,0,5,No fixed term,16.99,100,10000,60,0.08,5.82,0
+PBG-200586,52,West Midlands,Premium,24,3169,3214,700,2,Yes,No,Yes,1,0,4,Annual,16.99,69,5000,48,0.36,9.38,1
+PBG-200230,40,Yorkshire and the Humber,Premium,25,9500,6447,733,2,Yes,No,Yes,4,1,5,No fixed term,16.99,85,5000,48,0.18,7.37,1
+PBG-200559,38,Scotland,Everyday,78,3070,4480,602,2,Yes,No,Yes,3,1,3,Monthly,0,77,5000,12,0.23,11.66,0
+PBG-200473,63,South East,,25,3029,923,691,3,Yes,No,Yes,1,1,3,Annual,0,100,20000,12,0.18,7.85,1
+PBG-200533,36,East Midlands,Everyday,32,6938,2743,588,2,No,No,Yes,2,0,5,Monthly,0,100,2000,24,0.15,10.98,1
+PBG-200171,40,North East,Premium,19,2981,1142,567,2,No,Yes,Yes,3,1,3,Monthly,16.99,51,7500,24,0.15,13.39,1
+PBG-200414,44,South East,Everyday,59,7385,1923,834,4,No,No,No,2,1,3,No fixed term,0,57,20000,36,0.25,4.82,1
+PBG-201006,69,Yorkshire and the Humber,Premium,42,3444,240,730,3,No,No,No,2,0,4,Annual,16.99,79,5000,24,0.3,6.91,1
+PBG-200210,34,Yorkshire and the Humber,Plus,47,1597,1948,609,3,Yes,No,No,1,0,4,Annual,7,64,5000,36,0.25,10.28,1
+PBG-200026,33,East Midlands,Everyday,36,2968,929,590,1,No,No,Yes,3,0,5,Annual,0,93,5000,36,0.15,12.44,1
+PBG-201083,27,South East,Premium,37,3524,454,759,2,No,No,Yes,0,0,1,Annual,16.99,65,15000,36,0.24,6.18,1
+PBG-201057,40,South East,Plus,28,1883,945,666,2,Yes,No,Yes,0,0,3,Monthly,7,63,10000,36,0.25,7.32,1
+PBG-200079,45,Wales,Everyday,69,1358,,762,2,Yes,Yes,Yes,0,0,4,Annual,0,,15000,60,0.13,4.98,1
+PBG-200984,21,Scotland,Premium,32,3290,2096,515,3,No,No,Yes,4,0,3,Monthly,16.99,76,10000,60,0.38,15.65,0
+PBG-200963,39,North West,Plus,19,3889,1387,524,3,No,No,Yes,2,2,2,Annual,7,91,15000,36,0.23,14.29,1
+PBG-200967,40,South West,Everyday,62,2646,1154,725,1,Yes,No,Yes,2,0,2,No fixed term,0,100,5000,36,0.3,7.03,1
+PBG-200434,51,Yorkshire and the Humber,Everyday,29,2405,2453,740,1,No,Yes,No,0,0,3,Monthly,0,43,15000,48,0.32,7.86,0
+PBG-200773,25,London,Everyday,75,3421,2538,701,2,Yes,Yes,No,2,0,,Monthly,0,89,10000,36,0.16,7.07,0
+PBG-200482,59,Scotland,Premium,113,2349,2364,,2,No,Yes,Yes,1,3,5,Annual,16.99,64,5000,24,0.32,8.11,0
+PBG-200367,33,North East,,32,3922,3122,624,5,Yes,No,Yes,0,1,3,Monthly,0,54,5000,36,0.09,9.01,0
+PBG-201170,18,West Midlands,Everyday,11,1587,573,731,1,Yes,No,Yes,2,0,3,Annual,0,66,5000,36,0.38,7.96,1
+PBG-200204,48,London,Everyday,40,2667,1076,484,3,Yes,No,Yes,0,1,5,No fixed term,0,65,2000,24,0.25,16.04,1
+PBG-200565,59,London,Everyday,54,4243,378,676,2,Yes,No,Yes,2,0,3,No fixed term,0,99,20000,12,0.07,8.02,1
+PBG-200669,28,Wales,Premium,58,3280,1494,547,2,Yes,No,Yes,2,0,4,Annual,16.99,100,5000,24,0.32,12.4,1
+PBG-200433,60,London,Everyday,27,3591,582,,2,No,No,Yes,0,0,2,No fixed term,0,39,2000,24,0.19,14.14,1
+PBG-201044,23,Wales,Everyday,21,1267,0,742,3,Yes,No,No,3,0,3,Monthly,0,50,5000,36,0.4,7.87,1
+PBG-200999,25,Yorkshire and the Humber,Plus,68,4136,3660,585,2,Yes,No,Yes,3,0,5,No fixed term,7,100,1000,36,0.15,11.64,1
+PBG-200180,27,Scotland,Everyday,32,2408,3543,617,5,Yes,No,Yes,4,0,3,Monthly,0,62,1000,12,0.1,11.58,1
+PBG-200063,18,Wales,Plus,21,4874,1253,834,5,Yes,No,Yes,3,0,3,Annual,7,62,2000,24,0.13,,1
+PBG-201036,48,North West,Premium,69,3818,4450,714,2,Yes,No,Yes,1,0,3,No fixed term,16.99,83,3000,48,0.17,7.33,1
+PBG-200651,42,South East,Premium,79,2779,2392,663,1,Yes,No,Yes,1,2,4,Annual,16.99,63,3000,36,0.3,10.2,1
+PBG-200805,45,Scotland,Everyday,49,4142,4727,726,3,Yes,No,Yes,2,0,4,Annual,0,82,3000,12,0.16,6.25,1
+PBG-200177,55,West Midlands,Everyday,49,7111,8219,703,1,Yes,No,Yes,0,1,4,Annual,0,92,10000,36,0.37,9.72,1
+PBG-200158,46,London,Everyday,70,2295,,656,1,No,No,No,0,0,3,Monthly,0,54,2000,12,0.21,7.8,0
+PBG-200607,56,North East,Everyday,27,1439,1583,613,3,Yes,No,Yes,1,0,4,No fixed term,0,89,10000,24,0.06,10.13,0
+PBG-200587,36,West Midlands,Plus,46,3085,932,615,5,Yes,No,Yes,1,1,4,Monthly,7,82,7500,60,0.09,11.42,1
+PBG-200646,44,Scotland,Everyday,15,2788,2491,659,5,No,No,No,1,0,4,Annual,0,67,10000,36,0.34,11.05,1
+PBG-200508,28,Northern Ireland,Premium,36,3899,3823,583,4,Yes,No,Yes,1,0,3,No fixed term,16.99,78,15000,24,0.15,12.68,0
+PBG-201177,46,Wales,Premium,40,1079,0,614,1,No,No,No,3,2,3,Annual,16.99,,3000,48,,10.47,0
+PBG-200384,18,North East,Everyday,37,3273,924,614,1,No,No,Yes,0,0,4,Annual,0,94,10000,36,0.34,12.4,0
+PBG-201162,43,London,Premium,48,3849,3953,605,2,No,No,No,4,0,3,No fixed term,16.99,39,7500,24,0.19,9.78,0
+PBG-200149,28,London,Everyday,52,2591,502,570,1,No,No,No,3,1,3,Monthly,0,60,25000,12,0.23,13.2,0
+PBG-200808,51,London,Plus,46,3174,1771,602,2,No,Yes,Yes,2,0,5,Monthly,7,61,5000,36,0.31,12.24,0
+PBG-200090,32,Yorkshire and the Humber,Everyday,31,1557,1082,578,3,No,No,Yes,3,0,3,Annual,0,,3000,24,0.43,12.82,0
+PBG-200253,38,London,Plus,23,2016,814,744,1,No,Yes,Yes,4,1,3,No fixed term,7,89,5000,60,0.39,7.52,1
+PBG-200401,50,,Plus,10,3633,2473,654,2,No,No,Yes,1,0,3,No fixed term,7,100,15000,36,0.06,9.12,1
+PBG-200087,49,North East,Everyday,18,5112,2261,570,3,Yes,No,Yes,1,3,3,Annual,0,87,5000,24,0.32,10.99,1
+PBG-200601,54,West Midlands,Everyday,61,2317,720,665,1,No,Yes,Yes,0,0,5,No fixed term,0,87,5000,48,0.36,10.85,1
+PBG-200350,37,Wales,Everyday,31,1962,682,721,2,Yes,No,Yes,0,1,4,Monthly,0,58,5000,12,0.36,7.39,1
+PBG-201049,24,London,Plus,7,5965,4729,713,2,Yes,No,No,3,1,4,Monthly,7,89,3000,60,0.12,5.45,0
+PBG-200121,36,Northern Ireland,Everyday,43,5133,1060,658,4,Yes,No,Yes,3,0,2,Monthly,0,95,2000,36,0.07,8.83,1
+PBG-201157,26,London,Everyday,27,2073,3089,619,2,Yes,No,No,0,1,1,Annual,0,84,10000,36,0.42,10.44,0
+PBG-200028,45,West Midlands,,32,2691,1375,648,2,No,No,No,1,3,,No fixed term,7,56,2000,48,0.36,8.18,0
+PBG-200933,54,North East,Plus,55,3182,2626,699,2,No,No,Yes,1,0,3,Annual,7,88,5000,36,0.14,7.68,0
+PBG-201021,51,North West,Business,54,900,1131,800,3,Yes,No,Yes,0,1,4,Annual,12,100,5000,24,0.24,5.18,1
+PBG-200236,,Yorkshire and the Humber,Everyday,126,,2571,649,2,Yes,Yes,Yes,2,0,4,No fixed term,0,100,5000,12,0.22,8.63,1
+PBG-200279,22,East Midlands,Everyday,9,1784,33,649,2,Yes,Yes,No,1,0,,Monthly,0,,2000,12,0.11,8.41,1
+PBG-200843,35,London,Premium,36,5586,7514,779,1,Yes,No,Yes,0,0,5,Monthly,16.99,82,3000,36,0.31,4.85,1
+PBG-200527,33,South West,Everyday,27,3354,816,641,2,Yes,No,Yes,1,2,5,No fixed term,0,96,3000,36,0.53,12.23,0
+PBG-200799,51,London,Everyday,46,3567,1401,609,2,No,No,No,1,3,4,No fixed term,0,48,5000,36,0.36,11.01,0
+PBG-200726,60,London,Premium,56,3773,3270,652,3,Yes,No,No,0,1,4,Annual,16.99,59,20000,36,0.21,9.94,0
+PBG-200102,58,Northern Ireland,Everyday,50,3897,4351,776,2,Yes,No,No,1,0,5,Annual,0,67,15000,24,0.03,5.46,1
+PBG-200844,34,Yorkshire and the Humber,Everyday,24,1501,1579,519,2,Yes,No,Yes,0,1,3,Monthly,0,69,5000,24,0.22,13.99,0
+PBG-200349,32,Yorkshire and the Humber,Everyday,45,2536,1940,699,3,Yes,No,No,1,3,,Monthly,0,64,15000,24,,8.51,0
+PBG-200809,27,Northern Ireland,Everyday,17,2926,1585,728,4,Yes,No,No,2,0,4,No fixed term,0,59,20000,24,0.21,7.05,1
+PBG-200659,34,West Midlands,Plus,67,4932,3586,668,3,Yes,Yes,Yes,1,1,4,Annual,7,91,5000,36,0.1,7.12,1
+PBG-201042,28,Scotland,Everyday,16,5290,,591,3,No,Yes,Yes,1,0,5,No fixed term,0,95,5000,36,0.08,11.03,1
+PBG-200975,18,Wales,Everyday,55,1348,540,595,3,Yes,No,Yes,6,0,,Annual,0,90,5000,48,0.16,12.11,1
+PBG-200348,28,Yorkshire and the Humber,Plus,58,1381,647,631,3,No,No,Yes,2,0,2,Annual,7,,5000,48,0.18,9.44,0
+PBG-200311,51,London,Plus,62,2552,1715,625,1,Yes,No,Yes,1,0,3,Annual,7,91,3000,60,0.17,11.87,1
+PBG-200820,30,Scotland,Business,62,5702,3501,720,1,Yes,Yes,Yes,0,0,3,Monthly,12,79,3000,36,0.34,8.14,1
+PBG-200771,41,North West,Premium,53,4840,4605,684,1,Yes,No,Yes,3,0,5,Annual,16.99,100,3000,24,0.51,9.9,0
+PBG-200692,49,South West,Everyday,31,2216,1091,611,1,No,No,No,1,0,5,Monthly,0,55,7500,48,0.36,12.58,1
+PBG-200775,43,North West,Everyday,95,6824,4472,710,1,Yes,No,Yes,4,0,4,Monthly,0,64,1000,24,0.15,8.11,1
+PBG-200261,45,West Midlands,Plus,35,,472,750,3,Yes,No,No,0,0,3,No fixed term,7,69,3000,48,0.11,6.69,1
+PBG-200876,26,North East,Everyday,81,4063,2113,714,1,No,No,Yes,1,0,3,No fixed term,0,83,1000,60,0.4,7.9,1
+PBG-200528,44,Yorkshire and the Humber,,42,1650,,833,2,Yes,No,No,2,0,5,No fixed term,16.99,38,20000,48,0.25,3.9,1
+PBG-200142,39,North West,Everyday,46,5073,2439,674,1,Yes,No,No,3,0,4,No fixed term,0,56,25000,36,0.3,11.11,0
+PBG-200511,40,West Midlands,Plus,15,3928,915,573,3,Yes,No,No,1,1,5,Annual,7,70,7500,24,0.41,12.09,0
+PBG-200856,50,South East,Everyday,27,3428,3604,650,1,Yes,No,No,3,0,2,Monthly,0,80,20000,12,0.13,9.7,0
+PBG-200827,45,Northern Ireland,Everyday,9,3571,1009,736,2,,No,No,0,1,4,Annual,0,57,5000,60,0.12,4.03,1
+PBG-201129,49,South West,Everyday,45,2560,2109,773,2,Yes,Yes,Yes,1,0,,Monthly,0,95,3000,36,0.25,6.53,1
+PBG-200923,18,London,Plus,95,3126,2988,695,3,Yes,No,Yes,1,0,4,Monthly,7,75,2000,48,0.09,7.28,1
+PBG-200615,34,Northern Ireland,Everyday,39,2600,,736,5,Yes,No,Yes,3,0,1,Monthly,0,100,10000,48,0.06,8.06,1
+PBG-200046,58,North East,Everyday,26,1540,1701,649,1,No,No,,1,0,2,No fixed term,0,54,2000,36,0.25,9.75,1
+PBG-200251,27,West Midlands,Premium,60,3795,4902,569,2,No,Yes,Yes,1,0,5,Monthly,16.99,96,3000,60,0.24,12.59,1
+PBG-200898,45,South East,Everyday,34,2375,1030,510,1,No,No,Yes,2,0,5,Annual,0,69,1000,48,0.22,17.42,0
+PBG-200006,40,Scotland,Everyday,21,3026,1954,618,1,No,No,Yes,2,1,5,Annual,0,100,7500,48,0.08,9.17,0
+PBG-200233,30,South East,Everyday,36,3986,3460,725,2,Yes,Yes,Yes,1,1,4,No fixed term,0,89,20000,24,0.11,3.9,1
+PBG-200738,27,South West,Everyday,23,4236,2284,692,1,Yes,No,Yes,0,0,4,Annual,0,81,20000,60,0.24,7.41,1
+PBG-200287,36,South East,Everyday,19,4307,3901,746,4,No,No,No,3,0,1,Monthly,0,48,7500,12,0.2,,1
+PBG-200974,29,North West,Premium,39,2613,1817,636,1,No,No,Yes,0,0,3,Monthly,16.99,78,15000,36,0.16,12.26,1
+PBG-200815,39,South East,Business,34,,1675,615,3,No,No,Yes,1,0,1,Annual,12,78,3000,12,0.19,12.31,1
+PBG-200723,52,London,Premium,47,3532,2614,643,1,No,No,Yes,1,0,4,No fixed term,16.99,,7500,48,0.3,10.98,0
+PBG-200641,53,South West,Plus,23,4085,3154,633,2,No,No,No,2,2,4,No fixed term,7,55,7500,36,0.37,10.92,0
+PBG-200834,39,London,Plus,34,2214,579,763,3,Yes,No,Yes,4,1,2,Monthly,7,66,20000,24,0.11,3.9,1
+PBG-200159,42,North West,Business,56,8271,6830,669,2,Yes,No,Yes,0,1,4,No fixed term,12,100,7500,36,0.4,10.67,1
+PBG-200704,20,East Midlands,Everyday,47,4488,4038,,2,No,No,Yes,0,1,3,No fixed term,0,44,25000,24,0.06,3.9,1
+PBG-200671,39,London,Everyday,60,3934,2766,691,4,No,Yes,No,1,0,4,Annual,0,91,1000,12,0.15,9.03,1
+PBG-200893,18,West Midlands,Premium,18,4482,2275,664,2,Yes,No,Yes,3,0,4,Annual,16.99,83,7500,60,0.08,7.5,0
+PBG-200035,27,South East,Everyday,52,3764,2189,652,3,No,No,Yes,3,0,3,Annual,0,,7500,12,0.24,12.88,1
+PBG-200911,18,Northern Ireland,Everyday,38,1919,696,766,3,No,No,Yes,2,2,3,Monthly,0,100,5000,60,0.43,5.79,0
+PBG-200459,25,Wales,Everyday,24,1974,1077,644,4,Yes,No,Yes,1,0,3,No fixed term,0,77,20000,12,0.2,8.88,0
+PBG-200331,33,East Midlands,Plus,100,2259,2176,,1,No,No,No,2,1,3,Monthly,7,67,7500,36,0.2,6.64,1
+PBG-200472,37,London,Premium,81,2606,1241,766,2,No,No,Yes,2,2,5,Monthly,16.99,85,2000,12,0.16,6.79,1
+PBG-200199,28,Scotland,Premium,47,,2894,772,3,Yes,Yes,No,1,0,4,No fixed term,16.99,93,5000,36,0.45,6.9,1
+PBG-200543,18,London,Everyday,98,3730,2249,598,1,No,No,No,1,0,1,Annual,0,14,7500,48,0.04,,1
+PBG-200988,26,London,Everyday,32,3598,2660,541,2,No,Yes,Yes,0,1,4,Monthly,0,,7500,36,0.21,14.12,0
+PBG-200214,71,West Midlands,Everyday,21,5010,3675,701,4,No,No,No,1,2,3,Annual,0,25,5000,24,,9.64,0
+PBG-200347,40,East Midlands,Plus,33,5091,5622,532,3,No,No,No,1,0,4,Annual,7,44,7500,36,0.19,13.78,1
+PBG-200186,32,West Midlands,Plus,28,2351,2036,630,4,,No,Yes,4,0,3,Monthly,7,67,3000,12,0.12,8.58,1
+PBG-200532,25,London,Everyday,60,,337,687,4,Yes,No,No,3,0,,Monthly,0,71,5000,24,0.19,9.57,0
+PBG-200513,45,North West,Everyday,34,2284,139,761,2,Yes,No,No,2,0,4,Monthly,0,57,3000,36,0.29,5.8,1
+PBG-200520,23,London,Plus,21,3512,2069,718,1,No,No,Yes,1,0,5,Monthly,7,77,5000,48,0.28,7.89,1
+PBG-200932,36,North East,Everyday,80,3395,1117,701,3,Yes,No,,1,0,4,Monthly,0,100,2000,36,0.06,7.27,1
+PBG-200393,26,Yorkshire and the Humber,Premium,44,2077,2988,850,2,Yes,No,Yes,3,0,3,Annual,16.99,100,15000,24,0.4,4.77,1
+PBG-200211,46,South East,Everyday,17,1392,765,609,1,Yes,No,Yes,2,3,4,No fixed term,0,98,7500,48,0.25,13.14,0
+PBG-200055,65,East Midlands,Everyday,12,3001,1224,598,1,Yes,No,Yes,2,1,3,No fixed term,0,71,5000,36,0.26,13.11,0
+PBG-200381,51,South West,Premium,17,2489,607,624,3,Yes,No,Yes,1,0,5,No fixed term,16.99,100,5000,36,0.3,11.98,0
+PBG-201002,18,London,Plus,56,2127,2065,696,2,Yes,No,Yes,1,0,1,Monthly,7,74,5000,48,0.09,6.34,1
+PBG-200463,46,Northern Ireland,,46,,683,485,4,No,No,No,2,0,3,Monthly,0,52,7500,48,0.18,13.63,1
+PBG-201013,37,Scotland,Premium,17,2169,3536,686,1,Yes,No,Yes,0,0,4,Monthly,16.99,96,3000,48,0.15,7.66,1
+PBG-200868,32,South West,Plus,36,2936,3600,717,1,Yes,Yes,Yes,0,1,4,Monthly,7,79,3000,36,,8.1,1
+PBG-200742,,Wales,Plus,39,2416,0,656,4,Yes,No,No,1,0,3,Monthly,7,68,10000,60,,9.82,1
+PBG-200174,38,Wales,Business,69,3046,1688,725,1,No,No,Yes,2,0,4,No fixed term,12,99,5000,24,0.59,10.89,0
+PBG-200934,44,East Midlands,Plus,15,2269,0,660,2,Yes,No,No,0,0,3,Annual,7,59,5000,12,0.15,9.1,1
+PBG-200944,29,North East,Plus,30,3131,4267,633,1,Yes,No,No,5,3,3,Monthly,7,55,7500,36,0.29,12.21,1
+PBG-200298,51,North West,Everyday,41,3676,3752,614,1,No,No,Yes,0,0,5,Annual,0,91,10000,36,0.1,9.94,1
+PBG-200080,47,North West,Plus,32,2932,803,654,3,No,No,Yes,1,0,4,Monthly,7,,3000,48,0.49,11.32,0
+PBG-201183,18,South West,Everyday,74,6463,5392,619,2,No,No,Yes,0,0,4,Monthly,0,100,25000,24,0.03,10.58,1
+PBG-200745,25,Scotland,Everyday,21,4906,1546,671,1,Yes,No,Yes,1,0,4,Monthly,0,76,7500,36,0.26,7.75,1
+PBG-200192,56,East Midlands,Everyday,52,3367,4301,688,5,Yes,Yes,Yes,2,0,2,Annual,0,99,3000,12,0.38,9.49,1
+PBG-201149,74,South East,Plus,29,1745,2585,642,4,No,No,Yes,2,0,3,Monthly,7,88,5000,60,0.23,11.33,1
+PBG-200943,44,Wales,Everyday,21,3527,1630,609,3,Yes,No,Yes,1,0,2,Annual,0,,3000,12,0.19,10.21,1
+PBG-201178,37,West Midlands,Plus,21,5772,2745,,3,Yes,No,Yes,2,0,3,Monthly,7,100,7500,12,0.12,7.9,1
+PBG-200420,47,South East,Everyday,43,,1752,700,4,Yes,No,Yes,4,0,2,Annual,0,,3000,36,0.09,5.72,1
+PBG-201094,38,South West,Plus,49,2418,2446,677,2,Yes,Yes,Yes,0,1,3,Monthly,7,75,3000,24,0.37,8.51,1
+PBG-200432,35,North East,Everyday,76,1489,1817,700,1,Yes,No,Yes,1,0,2,Annual,0,,7500,12,0.1,6.86,1
+PBG-200407,41,Scotland,Premium,51,2042,222,850,2,Yes,No,No,2,3,4,Annual,16.99,56,3000,24,0.18,3.9,1
+PBG-201077,44,West Midlands,Premium,20,4899,714,729,3,No,No,Yes,2,0,4,No fixed term,16.99,94,5000,36,0.23,6.2,1
+PBG-201024,33,East Midlands,Premium,85,4306,1566,707,3,No,No,,1,0,4,Annual,16.99,100,5000,12,,10.09,1
+PBG-200621,33,Wales,Plus,98,4393,750,,2,Yes,No,Yes,3,0,2,Annual,7,70,2000,12,0.33,8.83,1
+PBG-200278,55,West Midlands,Business,53,6091,2867,707,1,Yes,No,Yes,1,0,4,Annual,12,63,7500,24,0.17,,1
+PBG-201102,37,London,Premium,38,2220,2761,684,3,Yes,Yes,Yes,0,0,5,Annual,16.99,69,3000,36,0.25,9.23,1
+PBG-200600,54,London,Plus,33,5733,2488,680,3,Yes,No,Yes,2,0,3,Annual,7,85,7500,36,0.39,10.33,1
+PBG-200921,27,North West,Everyday,56,3225,883,694,3,Yes,No,Yes,3,0,4,No fixed term,0,57,1000,48,0.12,8.24,0
+PBG-200130,18,South West,Premium,29,1779,1401,685,1,Yes,No,Yes,2,2,3,Annual,16.99,92,3000,48,0.23,6.15,0
+PBG-200746,57,South East,Everyday,67,4617,3850,733,4,No,No,Yes,1,0,5,No fixed term,0,,1000,12,0.46,,1
+PBG-201158,60,South East,Everyday,22,3805,4740,556,3,No,Yes,Yes,2,0,1,Monthly,0,100,2000,12,0.1,11.46,1
+PBG-200094,54,Wales,Everyday,41,1492,0,596,1,Yes,No,Yes,1,2,3,No fixed term,0,87,1000,48,0.27,12.74,0
+PBG-200295,42,South East,Everyday,43,3812,1131,521,3,No,No,Yes,2,0,1,No fixed term,0,78,7500,48,0.13,11.64,1
+PBG-200449,63,West Midlands,Everyday,101,1238,0,605,2,No,No,Yes,1,0,1,Monthly,0,61,20000,48,0.27,12.19,0
+PBG-200491,56,London,Plus,29,3085,2053,438,2,No,No,Yes,1,0,5,Monthly,7,64,25000,48,0.14,14.6,0
+PBG-201134,36,South West,Everyday,37,1929,3338,646,2,No,No,Yes,3,0,1,No fixed term,0,96,15000,36,0.27,10.41,0
+PBG-200404,57,London,Plus,52,4212,2162,731,1,Yes,No,Yes,1,0,,No fixed term,7,92,7500,36,0.03,5.14,1
+PBG-200263,28,South West,Plus,32,3078,342,618,2,No,Yes,No,1,3,1,Annual,7,44,5000,36,,10.74,1
+PBG-201191,66,North East,Everyday,49,1845,144,616,3,No,No,No,3,0,4,No fixed term,0,53,3000,12,0.33,13.24,0
+PBG-200266,38,Yorkshire and the Humber,Plus,32,1775,796,825,4,Yes,Yes,Yes,0,0,4,Annual,7,75,10000,36,0.15,3.9,1
+PBG-200701,26,North West,Premium,9,3930,1624,756,2,Yes,No,Yes,2,0,4,No fixed term,16.99,90,15000,24,0.31,6.17,1
+PBG-200973,37,London,Everyday,34,8581,3947,731,2,Yes,No,Yes,0,0,3,No fixed term,0,100,1000,36,0.08,4.99,1
+PBG-200622,18,East Midlands,Everyday,16,3340,2150,705,2,Yes,No,No,2,0,3,Annual,0,31,5000,12,0.06,6.38,1
+PBG-200516,33,North West,Premium,20,4287,3404,587,1,No,No,Yes,3,1,4,Annual,16.99,82,1000,48,0.28,12.52,1
+PBG-200104,45,West Midlands,Everyday,57,2431,,657,2,Yes,No,Yes,3,0,3,No fixed term,0,47,2000,48,0.12,7.96,1
+PBG-200632,34,South East,Plus,38,9111,4958,527,1,No,Yes,No,2,3,5,Annual,7,58,7500,24,0.6,16.51,0
+PBG-200004,20,Wales,Plus,94,2640,1437,675,2,No,No,Yes,2,0,3,Monthly,7,100,7500,48,0.27,10.18,1
+PBG-200971,43,Scotland,Everyday,31,3253,3027,780,2,Yes,Yes,No,3,0,1,Annual,0,56,20000,24,0.44,4.83,1
+PBG-200450,40,South West,Premium,24,2086,2520,711,3,Yes,No,Yes,0,2,3,Annual,16.99,75,7500,24,0.44,10.62,0
+PBG-201059,28,London,Everyday,59,2152,635,673,3,No,No,Yes,2,1,1,Annual,0,100,3000,12,0.35,8.65,1
+PBG-200436,49,London,,25,4364,1828,575,4,No,No,No,1,0,4,No fixed term,7,34,25000,24,,12.54,1
+PBG-200144,46,Northern Ireland,Everyday,54,5903,2286,657,5,No,No,Yes,3,0,3,No fixed term,0,100,3000,36,0.32,9.08,1
+PBG-200871,54,London,Plus,49,4655,3928,705,1,Yes,No,Yes,0,0,,No fixed term,7,87,7500,48,0.13,8.63,1
+PBG-200324,47,London,Business,31,3101,1573,730,4,Yes,No,No,2,3,2,Monthly,12,35,10000,24,0.32,9.69,1
+PBG-200504,47,Scotland,Everyday,22,2328,2069,674,2,No,No,Yes,1,0,,Annual,0,86,10000,24,0.3,10.54,1
+PBG-200780,,South East,Everyday,95,1979,436,668,2,No,Yes,Yes,3,0,5,No fixed term,0,100,1000,36,0.29,10.53,0
+PBG-201020,31,North East,Everyday,46,3049,2618,699,4,Yes,No,Yes,4,0,4,No fixed term,0,97,1000,24,0.29,8.55,1
+PBG-201199,44,Scotland,Business,61,5465,4283,674,3,Yes,No,Yes,2,0,4,No fixed term,12,91,15000,24,0.28,11.23,1
+PBG-201168,52,London,Plus,34,1894,1434,736,2,Yes,No,Yes,0,0,3,Annual,7,58,2000,24,0.25,7.68,1
+PBG-201067,49,Scotland,Plus,27,3317,1946,723,1,No,No,No,2,2,3,Annual,7,78,7500,24,0.19,6.42,1
+PBG-200853,52,Yorkshire and the Humber,Plus,33,,1876,647,2,,Yes,Yes,1,2,2,Annual,7,100,3000,36,0.24,10.47,1
+PBG-200444,30,London,Everyday,23,2003,1288,496,1,Yes,Yes,Yes,1,0,4,No fixed term,0,68,1000,48,0.11,13.68,1
+PBG-200240,46,London,Premium,58,1796,1976,647,2,No,No,Yes,1,0,4,Monthly,16.99,81,15000,24,0.06,10.6,1
+PBG-200375,23,East Midlands,Plus,49,6196,2888,599,3,Yes,No,Yes,4,0,5,Annual,7,63,5000,12,0.46,12.23,1
+PBG-201072,65,North East,Plus,26,2444,2728,611,3,Yes,No,Yes,4,0,2,Annual,7,,1000,48,0.34,11.9,1
+PBG-200557,44,West Midlands,Everyday,56,7968,4643,777,2,Yes,No,Yes,0,0,3,No fixed term,0,100,20000,24,0.32,5.22,1
+PBG-200812,24,Scotland,Plus,31,1909,,528,1,Yes,Yes,Yes,1,0,4,Annual,7,,2000,12,0.19,13.53,1
+PBG-201147,40,West Midlands,,70,1916,269,613,1,Yes,No,No,0,0,4,No fixed term,0,74,3000,36,0.22,8.74,0
+PBG-200451,56,North East,Everyday,34,3788,2626,729,3,Yes,No,No,1,1,4,Monthly,0,51,5000,48,0.23,,1
+PBG-200377,49,Wales,Plus,57,4180,1350,571,3,No,No,Yes,1,0,5,Monthly,7,60,20000,24,0.29,13.69,1
+PBG-200167,40,Northern Ireland,Premium,62,7077,8998,525,2,No,No,No,0,3,4,No fixed term,16.99,46,2000,24,0.28,13.33,0
+PBG-200720,34,,Plus,50,3332,3290,634,2,,Yes,No,1,0,3,No fixed term,7,49,2000,24,0.17,8.65,1
+PBG-200584,51,North West,Everyday,35,2264,1400,775,1,No,No,Yes,0,0,4,No fixed term,0,100,2000,24,0.33,7.26,1
+PBG-200919,50,South East,Everyday,24,1833,247,688,5,No,No,Yes,2,0,3,Annual,0,88,1000,36,0.42,9.26,1
+PBG-200581,27,South East,Premium,35,1286,1394,781,1,No,No,No,2,0,3,No fixed term,16.99,86,5000,48,0.08,6.22,1
+PBG-200435,31,West Midlands,Plus,29,4475,5838,745,3,Yes,No,Yes,1,1,3,Monthly,7,82,7500,12,0.22,4.56,1
+PBG-200107,56,Northern Ireland,Everyday,69,1825,769,616,1,Yes,No,Yes,3,4,2,Annual,0,94,15000,36,0.3,11.12,0
+PBG-200237,48,South East,Plus,25,2634,3185,,5,Yes,No,Yes,2,2,4,Annual,7,94,10000,36,,6.14,0
+PBG-200164,34,North West,Everyday,11,5933,5327,809,2,No,No,Yes,3,0,2,Annual,0,73,5000,48,0.18,4.15,1
+PBG-200029,37,Scotland,Premium,14,2310,2880,741,1,No,No,Yes,1,0,2,Annual,16.99,76,10000,36,0.2,5.09,1
+PBG-200850,30,London,Premium,56,2950,,691,1,No,Yes,Yes,2,2,4,Monthly,16.99,84,10000,36,0.2,7.64,1
+PBG-200616,18,North West,Plus,50,2675,2804,640,1,Yes,No,No,1,3,1,Annual,7,78,3000,36,0.29,9.2,0
+PBG-200358,23,North East,Premium,16,9500,4964,697,4,No,Yes,Yes,1,1,2,Annual,16.99,97,3000,12,0.03,4.7,1
+PBG-200555,41,East Midlands,Plus,31,2708,,728,2,Yes,No,Yes,1,0,4,No fixed term,7,,10000,36,0.39,7.31,1
+PBG-200983,70,South East,Plus,16,7127,2533,544,1,No,No,Yes,0,0,5,No fixed term,7,100,1000,12,0.4,16.14,1
+PBG-200191,31,North West,Everyday,13,2266,2838,667,1,Yes,No,Yes,3,1,,Annual,0,78,5000,24,0.08,7.22,1
+PBG-200884,54,London,Business,52,3728,3872,693,3,Yes,No,Yes,0,0,4,No fixed term,12,52,10000,24,0.17,8.55,1
+PBG-201066,46,Wales,Premium,68,6574,5339,618,4,Yes,Yes,Yes,1,1,1,No fixed term,16.99,92,1000,24,0.36,10.21,0
+PBG-201023,56,London,Everyday,23,4367,519,712,2,Yes,No,Yes,2,0,3,Annual,0,100,5000,24,0.33,8,1
+PBG-200836,38,North East,,36,2533,1886,658,2,,No,Yes,2,0,4,Annual,0,84,3000,60,0.18,7.25,1
+PBG-201164,39,North West,Everyday,45,2615,1079,708,3,Yes,Yes,No,3,0,1,Monthly,0,50,10000,24,0.1,5.92,1
+PBG-200548,41,London,Everyday,60,2981,2370,695,1,Yes,No,Yes,0,0,4,Annual,0,100,15000,12,0.12,8.86,1
+PBG-200589,48,East Midlands,Plus,33,,2428,571,3,No,No,Yes,1,2,4,Monthly,7,100,7500,48,0.2,11.13,0
+PBG-200580,55,London,Plus,47,3022,2187,676,1,No,No,Yes,2,0,4,Monthly,7,100,7500,48,0.21,8.02,1
+PBG-200643,51,South West,Plus,18,2153,66,677,2,No,No,Yes,1,1,4,Monthly,7,100,3000,24,0.46,9.54,1
+PBG-200889,36,London,Everyday,27,3142,1973,516,1,No,No,Yes,2,1,2,Monthly,0,96,2000,36,0.43,15.95,1
+PBG-200462,56,Wales,Premium,4,3180,2574,850,1,Yes,No,Yes,0,0,2,Annual,16.99,74,3000,24,0.2,3.9,1
+PBG-201084,23,London,Plus,76,2844,1240,615,3,Yes,No,Yes,0,0,4,Monthly,7,100,2000,60,0.21,12.08,1
+PBG-200088,46,West Midlands,Plus,58,2224,981,577,1,No,No,No,2,1,4,Annual,7,66,3000,36,0.23,11.07,0
+PBG-200890,53,Yorkshire and the Humber,Everyday,21,7002,4541,704,2,Yes,No,Yes,2,1,4,Annual,0,96,5000,36,0.25,6.45,1
+PBG-201034,,London,Plus,39,3898,2316,817,2,Yes,No,No,5,1,3,No fixed term,7,29,1000,24,0.29,3.91,1
+PBG-200262,47,Yorkshire and the Humber,Everyday,28,2610,351,609,2,No,No,Yes,3,0,5,No fixed term,0,100,1000,24,,,1
+PBG-201137,52,Yorkshire and the Humber,Plus,83,2021,692,786,4,Yes,No,Yes,2,3,1,Monthly,7,79,5000,24,0.32,5.8,0
+PBG-200569,25,London,Everyday,31,3991,5048,615,1,No,No,Yes,3,2,5,Annual,0,,20000,12,,11.17,0
+PBG-200052,28,West Midlands,Business,54,5963,1376,674,3,No,No,Yes,2,0,4,Annual,12,85,2000,36,0.29,9.71,1
+PBG-200630,47,London,Everyday,40,4545,1446,,1,Yes,No,Yes,0,0,4,Monthly,0,97,1000,24,0.39,9.04,1
+PBG-200690,33,South East,Business,28,2860,1405,630,3,No,No,Yes,1,0,2,Monthly,12,85,1000,48,0.1,9.45,1
+PBG-200215,67,North East,Everyday,50,4722,889,705,1,Yes,No,No,4,0,4,Monthly,0,66,5000,24,0.13,6.38,1
+PBG-201123,60,South East,Everyday,41,3072,1715,696,5,No,No,No,0,0,4,Monthly,0,89,3000,48,0.13,8.88,1
+PBG-200499,67,London,Plus,47,2943,3494,739,3,Yes,No,Yes,1,0,4,Annual,7,95,7500,36,0.19,6.81,1
+PBG-200413,31,North West,Everyday,46,8906,5785,631,3,No,No,No,1,0,4,Annual,0,78,2000,24,0.27,10.8,1
+PBG-200198,24,London,Everyday,31,7097,4654,804,2,Yes,No,Yes,0,0,3,Annual,0,86,7500,24,0.11,4.42,1
+PBG-200770,42,North East,Everyday,11,1734,671,668,2,No,No,No,1,0,5,No fixed term,0,40,3000,24,0.26,9.25,0
+PBG-201121,28,Northern Ireland,Everyday,5,1880,1345,537,1,Yes,No,No,2,0,5,Annual,0,27,7500,12,0.03,10.47,1
+PBG-200914,51,West Midlands,Plus,16,2498,1200,658,2,Yes,No,Yes,2,1,2,No fixed term,7,100,5000,12,0.06,7.29,1
+PBG-200728,69,London,Premium,12,2948,1911,684,2,Yes,Yes,Yes,2,0,4,Monthly,16.99,100,5000,24,0.32,7.78,1
+PBG-200386,60,South West,Everyday,21,2835,1534,707,2,Yes,No,Yes,2,0,3,Annual,0,93,5000,48,0.25,7.74,1
+PBG-200081,53,Northern Ireland,Everyday,17,4847,5453,850,1,Yes,No,Yes,4,0,5,No fixed term,0,80,7500,12,0.24,4.28,1
+PBG-200125,55,Northern Ireland,Plus,47,1395,470,538,4,Yes,No,Yes,2,0,5,Annual,7,91,5000,36,0.26,13.33,1
+PBG-201071,26,East Midlands,Business,63,5887,6756,764,2,Yes,No,Yes,0,0,3,Annual,12,68,3000,12,0.14,4.72,1
+PBG-200603,31,Wales,Plus,53,,,745,2,Yes,No,Yes,1,0,4,Monthly,7,90,3000,24,0.28,5.26,1
+PBG-200187,31,South East,Everyday,41,3496,2181,706,5,Yes,No,Yes,5,0,4,Annual,0,74,5000,24,0.11,8.64,1
+PBG-200633,45,South East,Plus,8,3192,2921,,1,No,No,Yes,0,0,5,Annual,7,100,3000,12,0.09,6.48,1
+PBG-201128,44,North West,Premium,24,3857,3306,636,2,No,No,Yes,2,0,5,Monthly,16.99,76,3000,36,0.48,10.94,0
+PBG-200175,35,Yorkshire and the Humber,Everyday,97,2164,2274,633,4,Yes,No,No,1,0,1,No fixed term,0,16,2000,12,0.26,10.44,1
+PBG-200083,34,London,Plus,30,1411,1493,586,2,No,No,No,1,0,3,No fixed term,7,100,1000,60,0.31,9.21,0
+PBG-200379,53,Scotland,Everyday,16,2290,1808,538,2,No,No,Yes,1,0,3,Annual,0,81,15000,24,0.12,10.58,0
+PBG-200986,25,Wales,Everyday,85,3916,3811,633,1,Yes,No,Yes,1,2,4,Annual,0,65,2000,24,0.32,11.45,1
+PBG-200784,21,London,Premium,28,2801,,574,1,No,No,Yes,1,0,2,Annual,16.99,65,7500,60,0.22,11.33,0
+PBG-200039,48,Yorkshire and the Humber,Everyday,25,3158,4267,741,2,Yes,No,Yes,2,1,3,No fixed term,0,87,3000,36,0.38,8.87,1
+PBG-200327,50,South East,Business,35,3697,2171,802,3,Yes,No,Yes,1,0,4,No fixed term,12,,5000,24,0.22,4.19,1
+PBG-200110,44,Wales,Everyday,30,1967,2029,615,3,Yes,No,Yes,2,3,2,Annual,0,90,2000,48,0.19,10.89,1
+PBG-200512,20,London,Plus,83,3493,765,650,3,Yes,No,Yes,3,0,3,Annual,7,73,7500,36,0.35,10.24,1
+PBG-200697,30,Wales,Everyday,25,1975,1658,677,1,Yes,No,Yes,0,0,4,Monthly,0,59,3000,24,0.19,8.3,1
+PBG-200576,61,West Midlands,Everyday,9,5106,5880,648,1,No,No,Yes,0,0,5,Annual,0,100,2000,36,0.24,12.61,1
+PBG-200188,,London,Everyday,17,5343,5629,634,1,No,No,Yes,1,1,5,Annual,0,100,1000,12,0.36,11.86,1
+PBG-200675,,South East,Everyday,26,1202,0,833,2,Yes,No,Yes,0,1,3,No fixed term,0,83,10000,24,0.16,4.02,1
+PBG-200922,18,South West,Premium,52,3446,2719,645,4,No,No,Yes,1,2,4,Monthly,16.99,86,10000,60,0.39,11.51,0
+PBG-200216,75,London,Everyday,55,4623,5749,743,5,Yes,No,No,1,0,2,Annual,0,54,5000,24,0.12,5.16,0
+PBG-200427,18,North West,Plus,28,2984,3586,676,2,Yes,No,Yes,2,1,,Annual,7,82,5000,24,0.23,9.96,1
+PBG-200925,18,East Midlands,Premium,44,5631,7225,751,1,Yes,No,Yes,0,0,5,No fixed term,16.99,67,7500,36,0.22,7.88,1
+PBG-201192,45,London,Premium,83,2612,,653,3,Yes,No,Yes,1,0,3,Annual,16.99,48,5000,36,0.09,8.83,0
+PBG-200575,36,London,Everyday,12,1356,1111,816,2,Yes,No,Yes,2,0,3,Monthly,0,61,7500,60,0.13,3.9,1
+PBG-200320,18,London,Business,18,3594,,574,3,Yes,No,Yes,1,1,2,Monthly,12,100,15000,24,0.44,14.21,0
+PBG-200873,28,London,Plus,102,4400,4175,572,3,No,No,,1,4,3,No fixed term,7,78,3000,36,0.23,,0
+PBG-200583,42,East Midlands,Premium,38,5433,4769,,3,Yes,No,No,2,2,5,No fixed term,16.99,75,5000,48,0.48,6.95,0
+PBG-200415,30,London,Plus,48,2515,904,769,4,Yes,No,Yes,3,1,4,No fixed term,7,98,25000,24,0.31,5.26,1
+PBG-200016,48,London,Plus,30,6938,7299,669,5,No,No,Yes,5,1,3,Monthly,7,100,5000,36,0.25,8.43,0
+PBG-201110,22,East Midlands,Business,54,3490,3627,575,1,No,No,Yes,5,3,2,Annual,12,65,5000,36,0.46,11.85,0
+PBG-200996,42,Wales,Everyday,4,1850,1449,708,3,Yes,Yes,Yes,3,1,,Monthly,0,73,2000,12,0.29,8.92,0
+PBG-201143,38,Scotland,Everyday,45,4019,1385,659,1,No,No,Yes,2,3,4,Monthly,0,91,5000,48,0.13,8.65,0
+PBG-200368,50,West Midlands,Business,5,4840,5230,623,1,Yes,No,No,2,0,3,Annual,12,87,7500,12,0.39,10.72,1
+PBG-200118,49,South West,Plus,18,1967,1286,,2,Yes,No,Yes,4,0,3,Monthly,7,86,2000,36,,7.5,1
+PBG-200859,37,West Midlands,Plus,24,4107,2135,742,1,No,No,Yes,2,0,3,Annual,7,,10000,12,0.23,6.32,1
+PBG-201196,49,North East,Everyday,50,7552,3475,654,2,Yes,No,No,2,0,3,No fixed term,0,57,7500,12,0.17,7.07,1
+PBG-200341,54,East Midlands,Plus,58,1587,1076,705,1,Yes,No,Yes,1,0,4,Annual,7,84,7500,24,0.18,9.63,1
+PBG-200409,41,South East,Plus,113,,2547,764,3,Yes,No,Yes,0,0,3,Monthly,7,83,1000,48,0.08,3.9,1
+PBG-200822,47,South East,Premium,30,4228,,,2,No,No,No,0,0,3,Monthly,16.99,85,5000,48,0.1,10.71,1
+PBG-200842,39,North West,Premium,30,2070,1375,593,2,No,No,Yes,2,3,1,Annual,16.99,72,3000,36,,11.4,0
+PBG-200060,,South East,Business,60,3755,4070,,5,Yes,No,Yes,1,0,4,Monthly,12,100,5000,24,0.34,3.9,1
+PBG-200200,45,London,Plus,23,8602,7022,669,3,Yes,No,Yes,1,0,,No fixed term,7,85,2000,48,0.27,9.72,1
+PBG-200788,52,Wales,Business,9,6342,1850,612,1,No,No,Yes,0,0,3,No fixed term,12,100,10000,24,0.33,12.62,1
+PBG-200772,39,North East,Premium,21,1941,816,664,1,Yes,No,No,1,0,4,Monthly,16.99,48,1000,48,0.11,10.44,1
+PBG-200417,42,South East,Everyday,43,2690,2705,785,1,No,No,Yes,1,2,2,Annual,0,70,5000,60,0.58,6.42,1
+PBG-200202,43,Yorkshire and the Humber,Premium,31,3139,2791,709,1,Yes,No,No,2,1,3,No fixed term,16.99,78,10000,36,0.14,7.22,1
+PBG-200054,35,Yorkshire and the Humber,Premium,25,3470,3680,646,2,Yes,No,Yes,4,0,3,Monthly,16.99,63,7500,12,0.07,8.42,1
+PBG-201132,,Northern Ireland,Everyday,48,4206,3276,574,1,No,No,Yes,2,1,4,Monthly,0,78,5000,24,0.48,15.29,1
+PBG-200881,33,North East,Premium,45,2764,2098,635,1,Yes,No,Yes,1,0,3,Annual,16.99,76,2000,24,0.31,10.84,1
+PBG-200895,39,South East,Business,16,6679,4757,556,1,Yes,No,Yes,0,0,5,Annual,12,47,5000,12,0.21,13.45,0
+PBG-200001,42,East Midlands,Everyday,56,3476,2448,672,1,No,No,Yes,2,0,5,Monthly,0,73,3000,48,0.3,9.61,1
+PBG-200957,74,Yorkshire and the Humber,Everyday,14,2396,2974,633,2,Yes,Yes,Yes,1,0,4,Annual,0,74,15000,24,0.12,12.35,0
+PBG-200523,34,North East,Everyday,33,3329,845,740,1,Yes,No,Yes,0,0,2,Monthly,0,83,10000,48,0.3,8.86,0
+PBG-200097,45,South West,Plus,22,3647,4124,637,2,Yes,No,Yes,2,1,4,Monthly,7,62,7500,36,0.44,10.42,0
+PBG-200461,46,South East,Premium,16,1330,645,691,3,Yes,No,Yes,2,0,5,Annual,16.99,87,15000,24,0.12,7.32,1
+PBG-201022,19,Yorkshire and the Humber,Everyday,35,3073,1010,651,2,No,No,Yes,2,0,3,Monthly,0,25,7500,36,0.14,8.02,1
+PBG-200122,50,Yorkshire and the Humber,Premium,11,3159,422,638,4,No,No,Yes,0,1,3,No fixed term,16.99,88,2000,24,0.2,8.37,1
+PBG-200283,28,London,Everyday,15,1506,760,770,1,Yes,No,Yes,1,0,1,Monthly,0,48,15000,48,0.27,7.24,1
+PBG-200793,46,North West,Everyday,76,2320,914,643,1,No,No,No,3,2,3,Monthly,0,64,2000,48,0.27,11.89,0
+PBG-201122,56,East Midlands,Premium,23,2047,1847,666,2,No,No,Yes,2,0,4,Monthly,16.99,100,25000,24,0.14,7.52,0
+PBG-200735,56,South West,Plus,24,4548,4152,739,3,Yes,No,No,3,0,4,Annual,7,87,3000,48,0.32,6.49,1
+PBG-201193,18,South West,Everyday,67,3421,3539,,5,No,No,No,0,0,3,Monthly,0,90,2000,12,0.26,9.25,1
+PBG-200246,26,Wales,Everyday,60,4432,4780,589,1,,No,Yes,1,0,5,No fixed term,0,92,3000,48,0.17,9.67,0
+PBG-200579,34,Northern Ireland,Plus,4,4299,3159,576,2,No,No,Yes,0,1,4,Annual,7,72,5000,36,0.09,13.32,1
+PBG-200673,49,North West,Plus,73,1963,901,680,3,Yes,No,Yes,2,0,3,Monthly,7,59,7500,12,0.48,10.75,1
+PBG-200976,54,East Midlands,Plus,39,4804,3723,656,2,Yes,No,Yes,2,1,1,No fixed term,7,65,1000,12,0.11,8.8,1
+PBG-200452,39,London,Premium,53,4098,,561,1,Yes,Yes,Yes,0,1,3,Annual,16.99,65,20000,12,0.2,15.14,0
+PBG-200260,40,Wales,Everyday,43,3500,1824,558,4,Yes,No,Yes,2,0,3,Annual,0,84,3000,24,0.28,13.48,1
+PBG-200033,39,West Midlands,Premium,29,2128,1433,783,3,No,No,Yes,0,0,5,Annual,16.99,87,3000,36,0.09,3.9,1
+PBG-200824,28,North East,Premium,11,6769,4035,635,3,Yes,No,No,0,0,5,No fixed term,16.99,70,3000,36,0.16,8.91,0
+PBG-200468,29,East Midlands,Everyday,110,6281,3413,680,2,No,No,No,4,2,3,Monthly,0,27,2000,24,0.42,9.48,0
+PBG-201120,38,West Midlands,Everyday,42,2861,1345,551,1,No,No,Yes,1,1,4,Annual,0,94,5000,12,0.15,11.33,0
+PBG-200563,40,Wales,Business,25,5712,3503,598,1,Yes,No,No,0,0,1,Annual,12,44,3000,36,0.18,12.9,1
+PBG-200127,37,South East,Premium,34,3705,2152,709,1,No,No,,2,0,3,No fixed term,16.99,85,3000,60,0.15,6.99,1
+PBG-200838,50,London,Premium,34,4300,3053,715,2,Yes,No,Yes,1,0,,Annual,16.99,67,1000,24,0.04,,1
+PBG-200151,32,West Midlands,Plus,33,2366,932,705,1,Yes,No,Yes,2,0,5,No fixed term,7,76,5000,48,0.04,6.06,0
+PBG-200903,41,East Midlands,Everyday,35,9500,,727,4,Yes,Yes,Yes,1,0,3,Monthly,0,95,5000,24,0.28,7.8,0
+PBG-200162,38,East Midlands,Premium,38,,2393,639,4,No,No,No,3,0,3,No fixed term,16.99,78,5000,48,0.25,10.25,0
+PBG-200741,51,South East,Everyday,8,4202,1869,809,2,Yes,No,No,1,0,2,Monthly,0,72,15000,24,0.11,4.48,1
+PBG-200053,45,South East,Plus,14,2148,852,785,2,Yes,No,No,0,0,1,Annual,7,59,7500,24,0.14,4.07,1
+PBG-200289,48,South East,Premium,43,5941,6856,516,1,Yes,No,Yes,1,1,3,Annual,16.99,64,2000,36,0.44,14.03,0
+PBG-200307,65,London,Everyday,48,1680,892,582,3,No,Yes,Yes,1,0,,Monthly,0,92,7500,36,0.12,11.06,1
+PBG-200846,58,London,Everyday,45,4740,2098,704,1,No,No,Yes,0,0,3,Annual,0,63,7500,48,0.18,5.37,1
+PBG-200719,27,Scotland,Everyday,23,2865,,530,2,No,No,No,2,0,5,Monthly,0,93,3000,36,0.07,12.96,1
+PBG-200012,62,South West,Everyday,22,5125,3591,724,2,No,Yes,Yes,1,0,4,Annual,0,98,3000,36,0.08,6.46,1
+PBG-200592,36,South West,Premium,59,6501,5692,772,1,Yes,No,Yes,3,0,5,Annual,16.99,65,2000,48,0.43,7.04,0
+PBG-200791,44,London,Everyday,36,2631,66,695,5,Yes,No,No,2,1,4,Monthly,0,32,7500,24,0.41,7.97,1
+PBG-200126,18,East Midlands,Plus,41,2157,1120,716,3,No,No,Yes,1,0,3,Annual,7,71,10000,12,0.32,7.47,0
+PBG-201194,58,London,Plus,38,3876,3232,719,1,No,No,,0,2,3,Monthly,7,100,2000,48,0.33,7.93,0
+PBG-200826,40,London,Everyday,71,2556,0,684,4,No,No,Yes,1,0,5,No fixed term,0,,10000,36,0.4,9.75,1
+PBG-200296,,Scotland,Premium,18,3858,4286,758,2,Yes,No,No,1,0,3,No fixed term,16.99,49,15000,12,0.26,3.9,1
+PBG-200370,35,North East,Everyday,17,2975,1753,800,2,No,No,Yes,1,0,2,Annual,0,98,7500,24,0.13,4.7,1
+PBG-200689,22,South East,Everyday,83,2968,2338,682,1,No,No,Yes,1,0,2,Annual,0,77,15000,48,0.16,7.63,1
+PBG-201096,29,South East,Everyday,53,2618,2342,768,1,Yes,No,No,1,0,5,Monthly,0,50,2000,24,0.3,6.97,0
+PBG-200326,28,South West,Plus,22,2271,388,773,4,Yes,No,Yes,0,1,3,Annual,7,58,7500,36,0.08,3.92,1
+PBG-200941,28,North East,Everyday,16,2281,,785,2,Yes,No,Yes,3,0,4,Monthly,0,100,10000,24,0.08,4.43,0
+PBG-200281,35,North West,Plus,32,2705,1033,780,2,Yes,No,Yes,1,1,5,Annual,7,82,5000,24,0.19,3.9,1
+PBG-200872,57,South West,Plus,48,2289,3024,673,1,No,No,Yes,0,0,2,Monthly,7,70,5000,36,0.03,5.49,1
+PBG-200803,24,South East,Everyday,53,3757,64,606,3,Yes,Yes,Yes,2,0,5,Annual,0,65,7500,36,0.15,9.44,1
+PBG-200593,37,East Midlands,Everyday,65,3115,1493,649,2,Yes,No,Yes,2,2,2,No fixed term,0,53,3000,12,0.32,9.69,1
+PBG-200732,18,London,Premium,21,1867,1847,709,3,Yes,Yes,Yes,0,1,4,No fixed term,16.99,96,3000,24,0.21,7.01,1
+PBG-200715,49,Wales,Plus,11,1928,892,683,2,Yes,No,Yes,1,2,5,Annual,7,88,3000,48,0.39,9.54,1
+PBG-200540,45,South West,Premium,10,1888,426,704,2,No,Yes,No,2,3,4,Monthly,16.99,56,7500,36,0.33,9.87,0
+PBG-200870,47,West Midlands,Everyday,30,2764,873,492,1,No,No,Yes,1,0,4,No fixed term,0,77,3000,24,0.37,15.2,1
+PBG-200869,31,East Midlands,Everyday,60,2548,1235,567,3,Yes,No,Yes,3,0,4,No fixed term,0,77,1000,36,0.29,12.37,1
+PBG-200190,44,South West,Plus,46,1232,1231,684,1,Yes,No,Yes,2,1,4,Monthly,7,76,7500,48,0.29,9.16,0
+PBG-200942,39,South West,Everyday,59,4709,5811,662,2,No,No,Yes,1,3,3,Monthly,0,66,1000,24,0.24,9.41,0
+PBG-200625,34,Wales,Plus,20,5183,4294,734,4,Yes,No,No,1,1,4,Monthly,7,81,2000,36,0.03,5.87,1
+PBG-200707,23,South West,Everyday,54,1432,729,612,4,No,Yes,Yes,1,0,3,No fixed term,0,100,2000,36,0.28,12.76,0
+PBG-200021,27,Wales,Everyday,8,,10,572,4,Yes,No,Yes,1,0,3,Annual,0,56,20000,36,0.34,12.35,1
+PBG-200041,26,Scotland,Everyday,63,3198,1248,693,1,Yes,No,Yes,5,1,,Monthly,0,75,15000,24,0.19,6.64,1
+PBG-201019,18,Yorkshire and the Humber,Plus,41,3000,2862,585,5,No,Yes,No,0,0,5,No fixed term,7,84,5000,48,0.24,12.63,0
+PBG-200648,43,Wales,Premium,23,2638,2355,624,4,No,No,Yes,1,0,3,Annual,16.99,89,2000,24,0.18,12.49,1
+PBG-200549,56,London,Everyday,67,1328,2460,626,3,No,No,Yes,1,0,4,Annual,0,77,2000,12,0.19,10.57,1
+PBG-200662,,North West,Everyday,71,4322,5881,,2,No,No,Yes,0,1,4,No fixed term,0,100,1000,12,0.34,11.77,1
+PBG-200392,,Yorkshire and the Humber,Everyday,40,2758,2598,679,4,Yes,No,Yes,3,0,5,Monthly,0,100,5000,24,0.16,11,1
+PBG-200034,30,Wales,Everyday,14,4880,4890,620,4,No,Yes,No,3,0,,Annual,0,73,2000,12,0.31,11.4,1
+PBG-200339,41,South West,Everyday,18,6362,6021,591,1,Yes,Yes,Yes,2,0,4,Annual,0,62,5000,12,0.16,9.34,1
+PBG-200345,41,South West,Premium,35,2721,2818,678,4,No,No,,0,0,2,Annual,16.99,100,1000,24,0.03,6.44,1
+PBG-200731,30,South East,Plus,21,2291,1831,710,1,No,Yes,Yes,2,0,2,No fixed term,7,88,3000,48,0.26,7.41,0
+PBG-200938,46,Northern Ireland,Everyday,22,2591,2463,560,2,No,No,No,1,0,2,Monthly,0,38,15000,24,0.24,13.06,0
+PBG-200438,29,North West,Premium,30,2415,2096,699,2,Yes,No,No,1,1,4,Monthly,16.99,57,2000,24,0.19,8.14,0
+PBG-200460,68,London,Everyday,43,1644,1232,768,2,Yes,No,Yes,1,0,4,No fixed term,0,81,3000,12,0.06,3.9,1
+PBG-200056,19,London,Everyday,19,3596,3354,704,5,Yes,No,Yes,0,0,3,Monthly,0,97,15000,36,0.24,7.68,0
+PBG-200739,47,South East,Business,39,8677,2543,715,3,Yes,Yes,Yes,2,0,3,No fixed term,12,100,10000,36,0.53,9.16,1
+PBG-201095,26,West Midlands,Everyday,56,1351,0,688,4,Yes,No,Yes,3,0,5,No fixed term,0,80,2000,24,0.23,6.48,1
+PBG-200854,18,North East,Plus,12,2399,2216,640,1,No,No,Yes,1,1,4,Annual,7,100,3000,24,0.26,,1
+PBG-200111,44,North West,Plus,25,1166,,688,3,Yes,Yes,Yes,2,0,4,Annual,7,63,5000,60,0.16,8.7,1
+PBG-200108,46,North East,Premium,49,3709,3690,690,3,Yes,No,Yes,2,0,3,No fixed term,16.99,100,5000,24,0.16,8.86,1
+PBG-200525,46,South East,Business,23,4797,2554,761,5,Yes,No,No,2,0,4,Monthly,12,80,5000,36,0.26,7.23,1
+PBG-201068,34,London,Business,34,3590,1602,664,2,,No,Yes,1,0,4,No fixed term,12,100,5000,24,0.25,8.14,1
+PBG-200074,54,London,Plus,42,3480,1606,676,2,Yes,Yes,Yes,1,0,4,Annual,7,89,2000,24,0.11,9.01,1
+PBG-200862,18,South East,Premium,11,2162,955,705,2,Yes,No,No,0,0,5,Annual,16.99,67,1000,36,0.23,6.38,0
+PBG-200353,31,Yorkshire and the Humber,Everyday,63,2868,1935,727,3,No,No,No,0,0,3,No fixed term,0,70,5000,48,0.34,8.64,1
+PBG-200288,37,North West,Everyday,46,2582,2885,676,5,Yes,Yes,No,4,2,1,Monthly,0,35,20000,24,0.37,9.37,0
+PBG-200315,55,Wales,Premium,14,4647,1850,672,2,No,No,Yes,1,0,1,Monthly,16.99,100,5000,24,0.27,8.2,1
+PBG-200418,33,London,Plus,7,2699,2259,664,1,Yes,Yes,Yes,2,2,4,Annual,7,96,5000,12,0.23,8.19,0
+PBG-200521,55,South East,Everyday,55,5586,5808,706,4,Yes,No,Yes,1,0,2,Monthly,0,81,2000,24,0.25,8.93,1
+PBG-201142,46,North East,Everyday,45,1968,,559,1,No,No,Yes,2,0,1,No fixed term,0,82,1000,48,0.2,12.15,0
+PBG-200334,33,Yorkshire and the Humber,Business,37,3257,1982,,2,No,No,Yes,1,0,5,No fixed term,12,93,3000,24,0.4,3.9,1
+PBG-200811,37,South West,Everyday,51,3955,5118,572,4,No,Yes,Yes,3,0,2,Monthly,0,64,5000,48,0.24,11.67,1
+PBG-200330,26,London,Business,64,4764,5030,487,4,No,No,Yes,2,2,4,Annual,12,88,5000,48,0.27,16.35,1
+PBG-200470,56,London,Everyday,68,3016,3026,628,3,No,No,Yes,2,0,5,Monthly,0,67,25000,24,0.28,11.2,1
+PBG-200960,42,Yorkshire and the Humber,Everyday,36,3973,3006,640,5,Yes,No,No,5,0,5,Annual,0,64,1000,48,0.22,9.68,1
+PBG-200490,28,Scotland,Everyday,26,2448,1128,755,4,Yes,No,Yes,0,2,4,No fixed term,0,86,10000,36,0.21,6.21,0
+PBG-200443,47,East Midlands,Everyday,31,4541,3636,681,1,Yes,No,Yes,1,1,5,Annual,0,88,7500,36,0.16,8.45,0
+PBG-200044,30,East Midlands,Plus,7,4249,4046,808,3,Yes,No,Yes,2,0,3,Monthly,7,71,7500,24,0.3,4.65,1
+PBG-200767,26,West Midlands,Everyday,17,3212,1177,661,2,No,No,Yes,0,2,,Annual,0,,7500,36,0.48,12.05,0
+PBG-201167,41,Wales,Plus,5,4566,4915,,1,No,No,Yes,1,0,3,Monthly,7,88,7500,12,0.23,13.38,0
+PBG-200848,40,London,Plus,33,2607,2160,,4,Yes,No,Yes,1,0,4,Monthly,7,93,10000,24,0.3,9.78,1
+PBG-200178,34,West Midlands,Business,16,2107,325,717,4,Yes,No,No,0,0,5,Annual,12,44,2000,24,0.22,7.3,1
+PBG-201145,29,North West,Everyday,39,2089,1886,626,2,Yes,No,Yes,0,0,4,No fixed term,0,98,1000,24,0.28,11.9,1
+PBG-200467,25,North West,Plus,28,1772,498,688,3,Yes,No,Yes,5,0,4,No fixed term,7,100,15000,24,0.45,9.33,1
+PBG-201055,44,North West,Everyday,8,2685,2284,665,3,Yes,No,Yes,1,4,3,Monthly,0,80,7500,36,0.49,10.98,0
+PBG-200987,38,North West,Everyday,62,4322,4546,729,4,Yes,No,No,0,1,4,Monthly,0,65,10000,36,0.32,8.37,1
+PBG-200636,29,Yorkshire and the Humber,Premium,20,2939,1145,850,2,Yes,No,Yes,2,1,4,No fixed term,16.99,100,3000,60,0.34,4.45,1
+PBG-200894,35,East Midlands,Everyday,38,2029,1565,655,3,No,No,No,3,1,3,Monthly,0,,2000,36,0.05,9.19,1
+PBG-200062,44,Scotland,Everyday,38,,250,619,4,Yes,Yes,Yes,0,0,3,Annual,0,100,2000,36,0.21,11.28,0
+PBG-200664,63,London,Business,48,3666,1543,820,4,Yes,Yes,No,1,0,2,Annual,12,72,10000,60,,,1
+PBG-200761,53,London,Everyday,79,3610,879,652,3,,No,Yes,2,0,,Monthly,0,87,3000,36,0.22,11.75,1
+PBG-200338,42,South East,Plus,34,5421,5597,556,4,Yes,No,Yes,1,0,3,Monthly,7,64,3000,48,0.17,11.86,1
+PBG-200981,18,North East,Everyday,52,1981,1360,675,4,Yes,No,Yes,1,0,3,Monthly,0,100,1000,24,0.07,6.14,1
+PBG-200328,19,North East,Everyday,78,3749,3114,545,2,Yes,No,Yes,2,0,5,Annual,0,100,7500,24,0.37,12.31,0
+PBG-200501,29,North East,Plus,16,2828,445,604,2,No,Yes,No,2,1,5,Annual,7,85,5000,36,0.21,9.71,0
+PBG-200221,26,Yorkshire and the Humber,Everyday,38,3253,4728,590,2,No,Yes,Yes,1,0,4,No fixed term,0,59,15000,48,0.22,,1
+PBG-200781,36,London,Business,73,4710,4654,625,4,Yes,No,Yes,0,0,4,No fixed term,12,89,5000,60,0.15,10.67,1
+PBG-201041,56,South West,Plus,66,2645,3334,836,4,Yes,No,Yes,3,2,4,Annual,7,100,1000,60,0.41,6.45,1
+PBG-200232,42,London,Business,12,3462,4229,628,3,No,No,Yes,1,0,4,Monthly,12,85,1000,36,0.35,12.36,1
+PBG-200640,33,South West,Premium,49,2507,2489,757,1,Yes,No,Yes,2,0,,Monthly,16.99,86,25000,12,0.16,4.99,1
+PBG-200813,25,South West,Plus,8,4047,3339,671,2,No,No,No,0,0,,Monthly,7,47,3000,36,0.34,9.51,1
+PBG-200713,31,South East,Everyday,20,2661,2167,728,1,Yes,No,No,3,0,4,No fixed term,0,72,5000,36,0.06,5.74,1
+PBG-200797,33,Scotland,Business,60,1913,1571,786,2,Yes,No,Yes,0,2,2,Monthly,12,100,5000,48,0.2,5.41,1
+PBG-200865,46,North West,Everyday,45,7018,7854,749,1,No,No,Yes,2,0,5,Annual,0,100,5000,48,0.26,7.19,1
+PBG-200465,35,East Midlands,Plus,19,4033,3985,748,2,No,No,Yes,2,1,4,Monthly,7,86,2000,12,0.08,3.9,1
+PBG-200774,30,West Midlands,Everyday,62,,1741,563,1,Yes,No,Yes,3,0,1,Monthly,0,94,25000,24,0.35,13.43,0
+PBG-200282,52,London,Plus,20,2738,1848,710,3,Yes,No,Yes,2,2,3,Monthly,7,100,7500,60,0.36,8.3,0
+PBG-200333,55,North West,Everyday,22,4316,5556,647,3,No,No,No,1,2,2,No fixed term,0,92,3000,12,0.23,10.25,0
+PBG-200252,29,East Midlands,Everyday,45,2014,1998,653,5,Yes,No,Yes,0,1,4,No fixed term,0,95,5000,24,0.14,11,1
+PBG-201082,56,Yorkshire and the Humber,Everyday,29,3214,1899,738,1,Yes,No,Yes,2,0,4,Monthly,0,86,5000,60,0.06,4.17,1
+PBG-200685,37,London,Everyday,24,1511,,649,1,Yes,Yes,No,1,2,2,Annual,0,32,7500,24,0.46,12.16,0
+PBG-200255,49,East Midlands,Everyday,68,2449,,642,3,No,No,No,2,4,2,No fixed term,0,30,5000,60,0.19,9.45,1
+PBG-200645,40,London,Premium,30,6762,,615,2,No,Yes,Yes,3,0,1,Monthly,16.99,,2000,48,0.45,9.95,0
+PBG-200678,50,West Midlands,Everyday,49,2580,2196,625,4,Yes,No,Yes,1,0,3,No fixed term,0,90,7500,12,0.35,9.88,1
+PBG-200397,74,North West,Everyday,55,3129,3391,780,3,No,Yes,Yes,1,0,,Annual,0,100,20000,24,0.36,5.33,0
+PBG-200342,,Scotland,Premium,32,5408,2025,551,2,No,No,Yes,3,1,3,Monthly,16.99,100,10000,24,,13.79,0
+PBG-200927,31,South West,Everyday,34,9500,5602,567,2,Yes,No,No,1,0,5,No fixed term,0,68,5000,48,0.22,10.66,1
+PBG-200623,36,North West,Plus,102,2973,3136,713,3,Yes,No,Yes,0,3,3,Monthly,7,68,10000,60,0.38,7.66,0
+PBG-200901,50,West Midlands,Everyday,53,3405,,707,2,Yes,No,Yes,0,0,5,No fixed term,0,100,15000,24,0.13,6.71,1
+PBG-200234,42,West Midlands,Plus,39,2490,2256,638,2,No,No,Yes,4,0,4,No fixed term,7,81,1000,24,0.4,9.54,0
+PBG-200783,29,Scotland,,17,5013,2532,702,1,Yes,No,Yes,0,0,4,Monthly,7,95,7500,36,0.23,9.39,1
+PBG-200972,32,East Midlands,Everyday,78,2294,2172,622,2,No,No,No,3,0,5,Monthly,0,48,5000,12,0.39,11.37,1
+PBG-201154,47,Scotland,Plus,71,3174,2184,565,2,No,No,No,1,2,3,Annual,7,36,25000,24,0.39,15.13,0
+PBG-200133,64,North West,Premium,64,5299,6270,690,3,No,No,Yes,4,2,4,Monthly,16.99,38,3000,24,0.39,10.67,1
+PBG-200245,55,West Midlands,Premium,14,,2900,695,3,Yes,No,,3,0,5,No fixed term,16.99,75,10000,36,0.22,8.23,1
+PBG-200939,32,East Midlands,Everyday,23,4489,2157,665,2,No,Yes,Yes,1,0,5,Annual,0,71,10000,36,0.08,7.15,1
+PBG-200863,29,Scotland,Plus,12,5172,1549,560,2,Yes,No,,2,0,4,Annual,7,100,5000,12,0.07,12.45,1
+PBG-200194,31,East Midlands,Everyday,34,2223,2178,667,1,Yes,No,Yes,1,0,3,Monthly,0,60,3000,36,0.24,9.03,1
+PBG-200920,53,North East,Business,25,3345,2802,818,3,,No,Yes,2,0,3,No fixed term,12,69,7500,24,0.1,4.42,1
+PBG-200071,40,Scotland,Plus,37,3472,1220,712,2,Yes,No,Yes,0,0,3,Annual,7,89,1000,48,0.48,10.34,1
+PBG-201018,35,Scotland,Plus,64,2749,2084,685,3,Yes,No,Yes,1,0,4,Annual,7,,1000,12,0.1,9.41,1
+PBG-201089,31,South East,Plus,26,2660,2537,655,1,No,No,Yes,1,0,4,Monthly,7,70,10000,60,,9.88,0
+PBG-200519,42,North West,Everyday,41,4677,4651,725,1,Yes,No,Yes,0,0,4,Annual,0,86,10000,36,0.23,5.09,1
+PBG-200750,39,London,Everyday,19,4353,2027,616,1,Yes,No,Yes,2,0,3,Monthly,0,93,2000,36,,9.05,1
+PBG-200002,53,East Midlands,Business,46,2552,1419,607,1,No,No,Yes,2,0,4,No fixed term,12,88,7500,12,0.13,10.54,0
+PBG-200644,44,London,Premium,39,2623,1823,631,3,Yes,No,Yes,1,0,1,Annual,16.99,91,3000,36,0.31,10.78,1
+PBG-200475,32,Wales,Plus,47,4653,2154,602,1,No,No,Yes,0,0,3,Monthly,7,67,7500,48,0.03,8.77,0
+PBG-200594,30,South West,Plus,36,4010,1554,686,1,No,No,Yes,0,0,3,Monthly,7,75,15000,12,0.25,7.79,1
+PBG-201026,47,South East,Everyday,128,2611,2534,696,2,No,No,Yes,2,0,3,Annual,0,100,3000,24,0.08,8.02,1
+PBG-200137,77,Yorkshire and the Humber,Everyday,9,1650,2003,715,1,No,No,Yes,3,0,4,Monthly,0,97,5000,24,0.2,9.11,1
+PBG-200208,18,Yorkshire and the Humber,Everyday,27,2141,2442,615,2,Yes,Yes,Yes,1,1,4,No fixed term,0,79,3000,12,0.14,10.17,0
+PBG-201048,24,Northern Ireland,Everyday,10,3739,1998,737,2,Yes,No,Yes,3,1,3,No fixed term,0,52,3000,48,0.43,10.4,0
+PBG-200150,35,Northern Ireland,Everyday,102,2507,1974,726,2,Yes,No,Yes,5,1,4,Monthly,0,87,5000,12,0.08,5.14,0
+PBG-200243,46,London,Plus,22,,5790,616,1,No,No,Yes,1,0,4,No fixed term,7,70,20000,48,0.12,9.05,0
+PBG-200014,30,London,Everyday,11,2494,1770,731,2,Yes,No,Yes,0,0,3,Monthly,0,66,5000,24,0.22,9.12,1
+PBG-200608,49,Yorkshire and the Humber,Plus,62,2811,3041,706,1,Yes,No,Yes,1,0,5,Annual,7,87,1000,36,0.07,5.99,1
+PBG-200250,30,East Midlands,Everyday,42,3727,4209,735,1,Yes,No,Yes,1,0,5,No fixed term,0,,10000,12,0.13,6.89,1
+PBG-200572,48,North East,Everyday,21,2513,,636,1,Yes,No,Yes,3,0,5,Annual,0,100,5000,36,0.27,7.99,0
+PBG-200614,31,Wales,Everyday,17,2204,1179,690,1,Yes,No,Yes,2,2,3,Monthly,0,100,7500,36,0.2,9.81,0
+PBG-201101,19,London,Premium,40,2671,1505,581,1,No,No,Yes,0,0,2,Monthly,16.99,100,2000,48,0.5,15.23,1
+PBG-200755,60,Yorkshire and the Humber,Plus,40,3083,2636,727,1,Yes,No,Yes,0,0,3,Monthly,7,79,5000,36,0.3,5.88,1
+PBG-200024,46,East Midlands,Business,70,5519,3160,761,2,Yes,No,No,2,0,3,Annual,12,50,7500,36,0.3,5.64,0
+PBG-200293,48,North West,Business,29,8090,4200,635,2,No,No,Yes,0,1,4,Annual,12,84,7500,12,0.05,7.85,1
+PBG-200015,29,West Midlands,Business,37,2535,461,698,2,No,Yes,Yes,1,0,4,Monthly,12,85,2000,12,0.18,7.54,1
+PBG-200830,18,East Midlands,Business,11,3726,,716,1,Yes,Yes,Yes,1,0,3,Monthly,12,100,3000,48,0.26,,1
+PBG-200003,26,South West,Premium,29,3418,2384,,3,Yes,No,Yes,2,1,4,Annual,16.99,87,15000,36,0.38,6.77,0
+PBG-200598,28,North West,Premium,18,4688,4417,699,4,Yes,No,Yes,1,0,3,Monthly,16.99,88,2000,12,0.26,8.44,1
+PBG-200031,34,South West,,39,2260,1004,802,1,No,No,Yes,1,2,4,No fixed term,0,94,25000,36,0.26,3.9,0
+PBG-200945,18,London,Everyday,29,900,1653,729,1,No,No,Yes,2,0,5,No fixed term,0,100,1000,48,0.42,5.95,1
+PBG-200582,50,Scotland,Everyday,42,4084,1817,727,2,Yes,No,No,0,0,4,Annual,0,79,2000,24,0.36,8.01,0
+PBG-200906,45,South East,Plus,39,4563,2645,749,1,Yes,No,Yes,0,1,5,Monthly,7,71,3000,36,0.43,5.89,0
+PBG-200457,26,London,Everyday,65,1672,1498,677,2,Yes,No,Yes,2,0,4,Annual,0,100,2000,24,0.4,10.62,1
+PBG-200660,22,Scotland,Everyday,65,5542,,621,2,No,No,No,1,0,3,Annual,0,87,7500,24,0.38,13.34,1
+PBG-200896,58,South East,Everyday,36,2276,1400,685,1,Yes,No,Yes,2,1,3,Monthly,0,95,25000,48,0.28,10.61,0
+PBG-200950,31,South West,Plus,27,4945,5530,737,4,Yes,No,No,2,0,1,Annual,7,68,20000,24,0.22,4.61,1
+PBG-200416,40,West Midlands,Premium,29,4215,144,578,3,No,No,Yes,0,3,,Monthly,16.99,76,3000,48,0.32,13.2,0
+PBG-200552,35,South West,Everyday,53,1921,1021,597,1,No,No,Yes,1,0,3,Monthly,0,90,2000,60,0.24,9.81,1
+PBG-200547,50,London,Everyday,22,1149,1901,813,2,No,No,No,0,0,3,Annual,0,89,2000,36,,3.9,1
+PBG-200959,31,East Midlands,Everyday,69,4087,4956,687,2,Yes,No,No,2,0,5,Annual,0,,15000,24,0.27,6.96,1
+PBG-200892,42,Wales,Everyday,63,1835,1867,692,2,No,No,No,2,0,,Monthly,0,80,20000,48,0.05,8.65,1
+PBG-200529,41,London,Business,16,4970,4741,688,4,No,No,Yes,0,0,4,Annual,12,64,10000,24,0.48,9.51,1
+PBG-200652,39,Wales,Everyday,58,3338,380,680,2,No,Yes,Yes,2,1,3,No fixed term,0,76,3000,24,0.37,9.76,1
+PBG-200447,52,South East,Business,24,4825,5160,668,1,No,Yes,Yes,1,0,5,Annual,12,81,3000,24,0.16,10.06,1
+PBG-200403,32,South East,Everyday,25,2224,653,738,3,Yes,No,No,1,0,4,Annual,0,,10000,24,0.19,7.51,1
+PBG-201189,52,Yorkshire and the Humber,Premium,69,6778,1970,701,2,No,No,Yes,2,0,2,Annual,16.99,100,5000,24,0.31,9.94,0
+PBG-200254,48,Wales,Everyday,90,1753,408,722,3,Yes,No,Yes,1,2,2,Monthly,0,80,2000,24,0.41,10.16,1
+PBG-200486,23,West Midlands,Premium,51,3261,1047,665,1,No,No,Yes,1,0,4,No fixed term,16.99,100,15000,24,0.34,8.35,0
+PBG-200596,18,North East,Everyday,88,7073,7848,681,1,No,No,Yes,0,1,1,Annual,0,97,3000,12,0.11,7.07,1
+PBG-201152,50,South East,Everyday,106,1591,0,,2,Yes,No,Yes,2,1,3,No fixed term,0,78,15000,24,,7.07,1
+PBG-200816,39,London,Plus,35,1948,1608,606,2,Yes,Yes,Yes,0,0,2,No fixed term,7,60,3000,24,0.45,11.71,1
+PBG-200030,45,South East,Everyday,22,2544,578,661,3,Yes,No,No,1,2,3,Monthly,0,82,5000,12,,10.48,0
+PBG-200185,34,South East,Everyday,32,2337,1178,747,2,Yes,No,Yes,1,0,3,No fixed term,0,62,2000,24,0.1,3.98,1
+PBG-200383,34,South East,Plus,34,3754,4807,727,1,Yes,No,No,0,2,3,Annual,7,79,2000,24,0.42,7.52,0
+PBG-200518,24,Scotland,Plus,32,1750,134,695,1,No,No,Yes,2,1,4,Annual,7,51,1000,12,0.39,9.7,1
+PBG-200537,,East Midlands,Everyday,20,4330,2931,662,3,Yes,No,Yes,2,0,2,Monthly,0,70,3000,48,0.19,6.9,1
+PBG-200280,55,Northern Ireland,Premium,50,2818,1381,610,3,No,Yes,Yes,3,0,3,Annual,16.99,96,3000,36,0.4,12.68,1
+PBG-200908,38,Yorkshire and the Humber,Premium,68,3292,1931,655,2,No,No,Yes,1,1,3,Monthly,16.99,84,15000,24,0.45,10.13,1
+PBG-200398,46,South West,Everyday,30,2827,697,720,2,Yes,No,No,1,0,5,Monthly,0,83,2000,48,0.08,5.22,1
+PBG-200145,54,South East,Premium,101,9500,10137,671,2,Yes,No,Yes,2,0,3,Annual,16.99,100,2000,36,0.21,10.59,1
+PBG-200992,43,South East,Plus,79,3465,5037,701,2,Yes,No,Yes,2,0,4,Monthly,7,63,3000,36,0.2,7.99,1
+PBG-200023,40,South East,Plus,36,1966,632,583,2,No,No,Yes,2,1,2,Monthly,7,78,3000,36,0.3,13.67,0
+PBG-200956,48,East Midlands,Premium,37,5281,2955,642,2,Yes,No,No,2,0,3,Monthly,16.99,54,2000,60,0.3,10.64,1
+PBG-200609,42,London,Plus,34,3304,3428,605,2,No,No,No,1,0,1,Annual,7,28,3000,48,0.22,11.08,1
+PBG-200182,44,Yorkshire and the Humber,Premium,20,4856,3142,651,3,Yes,No,Yes,2,0,3,Monthly,16.99,70,5000,36,0.29,10.2,1
+PBG-200040,47,North East,Premium,141,5506,2253,828,1,Yes,No,Yes,3,1,2,Monthly,16.99,100,2000,48,0.19,5.32,1
+PBG-200880,36,London,Plus,47,1491,1667,574,2,Yes,Yes,Yes,1,0,5,Annual,7,69,20000,24,0.58,13.95,0
+PBG-200611,47,North West,Everyday,53,3390,3666,700,2,No,No,Yes,3,0,4,No fixed term,0,100,5000,24,0.4,8.32,1
+PBG-200205,31,London,Everyday,18,2791,887,553,1,Yes,No,Yes,1,0,,Monthly,0,92,2000,60,0.23,11.84,1
+PBG-200727,21,North East,Plus,30,3629,3020,836,4,Yes,No,Yes,1,0,2,Annual,7,76,20000,60,0.29,4.07,1
+PBG-200786,45,North West,Business,43,4936,4104,730,3,Yes,No,Yes,1,0,3,Monthly,12,69,3000,48,0.18,7.23,1
+PBG-201180,,South West,Premium,46,9485,1853,507,3,No,No,Yes,3,0,4,Monthly,16.99,73,3000,12,,15.65,0
+PBG-201139,41,South East,Premium,43,3359,1718,712,2,Yes,No,Yes,2,1,5,Annual,16.99,100,10000,12,0.21,7.7,1
+PBG-200564,59,Wales,,21,2953,2505,771,1,Yes,No,No,0,0,3,Annual,7,56,15000,36,0.03,6.04,1
+PBG-200507,30,East Midlands,Everyday,38,3432,1851,648,3,No,No,Yes,0,2,1,Monthly,0,100,1000,12,0.24,10.03,0
+PBG-200578,19,North West,Plus,14,1479,,650,1,Yes,No,Yes,0,0,5,No fixed term,7,,5000,36,0.16,7.94,0
+PBG-201175,40,West Midlands,Everyday,64,3177,2754,719,1,No,Yes,Yes,1,0,3,Monthly,0,74,1000,24,,7.79,1
+PBG-200318,18,South East,Premium,64,2118,2698,597,1,Yes,No,Yes,5,0,3,No fixed term,16.99,100,5000,48,0.26,10.06,0
+PBG-200153,42,South West,Plus,58,4775,5148,601,3,No,No,Yes,1,0,5,Annual,7,75,5000,24,0.47,13.65,0
+PBG-200286,25,South East,Plus,32,2263,42,712,2,No,No,Yes,3,0,3,Monthly,7,78,20000,12,0.32,8.66,0
+PBG-200619,25,South East,Everyday,47,3718,3931,844,4,Yes,Yes,Yes,1,0,3,Monthly,0,96,5000,36,0.14,3.9,1
+PBG-200961,36,South East,Plus,31,2514,1440,615,4,Yes,No,No,0,0,3,No fixed term,7,36,5000,12,0.33,,1
+PBG-200136,43,London,Plus,71,4472,3097,,3,Yes,No,Yes,1,0,2,Annual,7,67,2000,24,0.16,8.76,1
+PBG-200703,51,Wales,Plus,10,2912,563,523,5,Yes,No,Yes,2,0,5,Annual,7,87,2000,48,0.34,15.01,0
+PBG-200300,40,West Midlands,Business,52,2923,3640,779,1,Yes,No,Yes,1,3,3,No fixed term,12,90,7500,12,0.54,6.81,0
+PBG-200343,18,North West,Everyday,11,2287,2127,648,1,Yes,No,No,4,0,4,No fixed term,0,25,1000,24,0.18,9.26,1
+PBG-200477,55,South East,Everyday,36,3586,3548,535,3,Yes,No,Yes,3,0,1,Monthly,0,73,25000,60,0.17,14.25,0
+PBG-200514,24,South West,Everyday,23,4965,1591,813,3,Yes,No,Yes,2,0,4,Annual,0,79,2000,12,0.4,6.47,1
+PBG-200680,43,London,Everyday,53,1283,277,674,2,Yes,Yes,Yes,3,1,4,No fixed term,0,100,10000,48,0.22,10.6,1
+PBG-200098,55,South East,Premium,6,4092,0,626,2,Yes,No,Yes,2,0,2,Annual,16.99,93,2000,24,0.19,10.16,1
+PBG-200166,18,North West,Plus,42,2214,661,644,4,No,No,Yes,1,0,4,Annual,7,72,7500,48,0.42,12.65,1
+PBG-200082,28,West Midlands,Business,56,6378,2535,562,1,Yes,No,Yes,0,1,3,Monthly,12,,5000,24,0.15,11.58,0
+PBG-200637,50,South East,Everyday,26,4265,5018,541,3,No,No,No,3,0,1,Annual,0,70,25000,24,0.11,11.85,0
+PBG-200357,44,Yorkshire and the Humber,Premium,69,1906,1014,626,2,Yes,No,Yes,2,0,4,No fixed term,16.99,64,10000,60,0.29,12.88,1
+PBG-200907,44,West Midlands,Everyday,27,3165,554,704,2,Yes,No,Yes,1,2,4,Annual,0,98,15000,36,0.22,6.97,0
+PBG-200493,28,Wales,Everyday,26,1149,1550,631,2,No,No,No,2,1,2,Monthly,0,47,10000,36,0.42,12.16,0
+PBG-200442,18,Scotland,Everyday,40,4959,3321,597,2,,No,Yes,2,0,4,Monthly,0,,3000,12,0.3,10.55,1
+PBG-200446,37,North West,Premium,36,4491,2410,708,2,No,No,No,2,0,5,Monthly,16.99,67,15000,48,0.53,7.23,1
+PBG-200995,34,London,Everyday,94,1327,851,672,4,Yes,Yes,Yes,2,0,4,Monthly,0,89,10000,24,0.31,8.44,1
+PBG-201008,50,North West,Plus,63,2736,1079,675,2,Yes,Yes,Yes,3,0,3,Monthly,7,60,1000,24,0.43,8.79,1
+PBG-201039,23,Wales,Everyday,24,4663,1261,672,1,Yes,No,No,2,0,5,No fixed term,0,62,3000,60,0.13,10.32,1
+PBG-200474,45,North West,Premium,65,6948,2247,678,1,Yes,No,No,2,2,2,Annual,16.99,,3000,24,0.45,9.99,0
+PBG-200681,18,West Midlands,Premium,8,4206,4962,689,3,No,No,Yes,3,0,2,Monthly,16.99,100,7500,12,0.18,7.37,1
+PBG-200143,57,Northern Ireland,Plus,59,4937,,632,2,No,No,Yes,2,0,5,Monthly,7,65,25000,48,0.08,9.3,1
+PBG-200716,23,Scotland,Everyday,46,3078,585,821,2,Yes,No,No,1,1,3,Annual,0,85,2000,12,0.27,4.56,1
+PBG-200050,64,London,Plus,25,2896,2748,703,1,Yes,No,Yes,0,0,4,Annual,7,80,10000,24,0.15,7.19,0
+PBG-200502,49,South East,Everyday,27,5728,2567,,5,Yes,No,Yes,1,0,5,Monthly,0,83,25000,12,0.2,6.42,1
+PBG-201087,20,West Midlands,Everyday,47,3262,1454,690,1,No,No,Yes,1,0,4,Annual,0,98,5000,24,0.13,6.72,1
+PBG-200351,42,East Midlands,Everyday,54,4327,4788,615,2,Yes,No,No,4,0,3,No fixed term,0,50,3000,60,0.22,9.99,1
+PBG-200612,51,,Everyday,40,2915,1262,674,2,Yes,No,Yes,1,0,3,Annual,0,64,5000,12,0.11,6.42,1
+PBG-200828,22,North West,Everyday,44,3576,,587,4,No,No,Yes,5,0,4,No fixed term,0,100,10000,36,0.12,12.12,1
+PBG-201053,23,South West,Premium,35,3288,959,723,3,Yes,No,No,1,0,3,Annual,16.99,77,10000,24,0.28,5.82,1
+PBG-200258,,Scotland,Everyday,31,1771,1772,565,2,Yes,No,Yes,2,1,5,Annual,0,100,1000,36,0.11,11.26,0
+PBG-200072,46,North East,Premium,39,5629,1064,706,3,No,No,Yes,8,1,4,No fixed term,16.99,63,3000,24,0.3,8.54,1
+PBG-200453,38,West Midlands,Everyday,36,1627,922,709,2,No,No,No,2,0,4,Annual,0,50,7500,36,0.11,6.12,1
+PBG-200965,29,East Midlands,Plus,30,2002,554,566,4,No,No,Yes,1,1,3,Annual,7,,3000,48,0.07,11.61,1
+PBG-200229,63,South West,Everyday,29,2729,2102,699,3,Yes,Yes,Yes,2,0,5,Monthly,0,55,7500,36,0.31,8.11,1
+PBG-200789,28,South West,Plus,81,4625,5052,747,4,Yes,No,Yes,1,2,4,No fixed term,7,100,5000,24,0.29,5.95,1
+PBG-200554,31,South West,Everyday,12,4704,3786,653,2,Yes,Yes,Yes,2,0,3,Monthly,0,78,2000,36,0.27,8.18,1
+PBG-201146,23,South West,,22,3310,3085,575,3,Yes,No,No,0,0,,Monthly,16.99,29,5000,12,0.07,9.79,0
+PBG-200560,41,South East,Plus,21,5058,3388,682,1,No,No,No,2,1,3,Annual,7,81,2000,60,0.17,7.95,1
